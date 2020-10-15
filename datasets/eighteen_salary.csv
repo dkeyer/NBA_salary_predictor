@@ -1,0 +1,464 @@
+team,salary,player,position,season
+Golden State Warriors,37457154.0,Stephen Curry, PG,2017-2018
+Boston Celtics,27734406.0,Al Horford, C,2017-2018
+Oklahoma City Thunder,26243760.0,Carmelo Anthony, PF,2017-2018
+Portland Trail Blazers,26153057.0,Damian Lillard, PG,2017-2018
+Washington Wizards,26011913.0,Otto Porter Jr., SF,2017-2018
+New Orleans Pelicans,25686667.0,Jrue Holiday, PG,2017-2018
+Washington Wizards,25434263.0,Bradley Beal, SG,2017-2018
+Detroit Pistons,25434263.0,Andre Drummond, C,2017-2018
+Miami Heat,25434262.0,Hassan Whiteside, C,2017-2018
+Philadelphia 76ers,25250000.0,Joel Embiid, C,2017-2018
+Houston Rockets,24599495.0,Chris Paul, PG,2017-2018
+LA Clippers,32088932.0,Blake Griffin, PF,2017-2018
+Milwaukee Bucks,24157303.0,Giannis Antetokounmpo, PF,2017-2018
+Cleveland Cavaliers,24119025.0,Kevin Love, PF,2017-2018
+Charlotte Hornets,24000000.0,Nicolas Batum, SF,2017-2018
+Portland Trail Blazers,23962573.0,CJ McCollum, SG,2017-2018
+Charlotte Hornets,23819725.0,Dwight Howard, C,2017-2018
+New Orleans Pelicans,23775506.0,Anthony Davis, PF,2017-2018
+Memphis Grizzlies,23112004.0,Chandler Parsons, SF,2017-2018
+Dallas Mavericks,23112004.0,Harrison Barnes, SF,2017-2018
+Los Angeles Lakers,22642650.0,Brook Lopez, C,2017-2018
+Memphis Grizzlies,22642350.0,Marc Gasol, C,2017-2018
+Denver Nuggets,31269231.0,Paul Millsap, PF,2017-2018
+LA Clippers,22642350.0,DeAndre Jordan, C,2017-2018
+Oklahoma City Thunder,22471910.0,Steven Adams, C,2017-2018
+Utah Jazz,21924719.0,Rudy Gobert, C,2017-2018
+Toronto Raptors,21666667.0,Serge Ibaka, PF,2017-2018
+San Antonio Spurs,21461010.0,LaMarcus Aldridge, PF,2017-2018
+Indiana Pacers,21000000.0,Victor Oladipo, SG,2017-2018
+LA Clippers,20559599.0,Danilo Gallinari, SF,2017-2018
+Houston Rockets,19578455.0,Ryan Anderson, PF,2017-2018
+Oklahoma City Thunder,19508958.0,Paul George, SF,2017-2018
+Minnesota Timberwolves,19301070.0,Jimmy Butler, SG,2017-2018
+Toronto Raptors,31200000.0,Kyle Lowry, PG,2017-2018
+Miami Heat,19245370.0,Tyler Johnson, SG,2017-2018
+Boston Celtics,29727900.0,Gordon Hayward, SF,2017-2018
+Memphis Grizzlies,28530608.0,Mike Conley, PG,2017-2018
+Oklahoma City Thunder,28530608.0,Russell Westbrook, PG,2017-2018
+Houston Rockets,28299399.0,James Harden, PG,2017-2018
+Toronto Raptors,27739975.0,DeMar DeRozan, SG,2017-2018
+Washington Wizards,19169800.0,John Wall, PG,2017-2018
+Minnesota Timberwolves,19000000.0,Jeff Teague, PG,2017-2018
+Sacramento Kings,19000000.0,George Hill, PG,2017-2018
+San Antonio Spurs,18868626.0,Kawhi Leonard, SF,2017-2018
+Boston Celtics,18868626.0,Kyrie Irving, PG,2017-2018
+New York Knicks,18622514.0,Enes Kanter, C,2017-2018
+New York Knicks,18530000.0,Joakim Noah, C,2017-2018
+Brooklyn Nets,18500000.0,Allen Crabbe, SG,2017-2018
+Miami Heat,18109175.0,Goran Dragic, PG,2017-2018
+Atlanta Hawks,18089887.0,Kent Bazemore, SG,2017-2018
+New Orleans Pelicans,18063850.0,DeMarcus Cousins, C,2017-2018
+Dallas Mavericks,17884176.0,Wesley Matthews, SG,2017-2018
+Golden State Warriors,17826150.0,Klay Thompson, SG,2017-2018
+Los Angeles Lakers,17745894.0,Kentavious Caldwell-Pope, SG,2017-2018
+Golden State Warriors,17469565.0,Draymond Green, PF,2017-2018
+Cleveland Cavaliers,17469565.0,Tristan Thompson, C,2017-2018
+New York Knicks,17325000.0,Tim Hardaway Jr., G,2017-2018
+Los Angeles Lakers,17190000.0,Luol Deng, SF,2017-2018
+Portland Trail Blazers,17131148.0,Evan Turner, SG,2017-2018
+Detroit Pistons,17043478.0,Reggie Jackson, PG,2017-2018
+Orlando Magic,17000000.0,Bismack Biyombo, C,2017-2018
+Orlando Magic,17000000.0,Evan Fournier, SG,2017-2018
+Toronto Raptors,16539326.0,Jonas Valanciunas, C,2017-2018
+San Antonio Spurs,16000000.0,Pau Gasol, C,2017-2018
+LA Clippers,16000000.0,Tobias Harris, SF,2017-2018
+Washington Wizards,15944154.0,Ian Mahinmi, C,2017-2018
+Atlanta Hawks,15500000.0,Dennis Schroder, PG,2017-2018
+San Antonio Spurs,15453126.0,Tony Parker, PG,2017-2018
+Brooklyn Nets,15400000.0,DeMarre Carroll, SF,2017-2018
+Phoenix Suns,15000000.0,Eric Bledsoe, PG,2017-2018
+Golden State Warriors,14814815.0,Andre Iguodala, SG,2017-2018
+Cleveland Cavaliers,14720000.0,JR Smith, SG,2017-2018
+Miami Heat,14651700.0,James Johnson, PF,2017-2018
+Chicago Bulls,14357750.0,Robin Lopez, C,2017-2018
+Utah Jazz,14275000.0,Ricky Rubio, PG,2017-2018
+Utah Jazz,14136364.0,Joe Ingles, SF,2017-2018
+Minnesota Timberwolves,14112360.0,Gorgui Dieng, C,2017-2018
+Charlotte Hornets,14087500.0,Marvin Williams, PF,2017-2018
+Denver Nuggets,14041096.0,Mason Plumlee, PF,2017-2018
+Minnesota Timberwolves,14000000.0,Taj Gibson, PF,2017-2018
+Charlotte Hornets,12000000.0,Kemba Walker, PG,2017-2018
+Utah Jazz,12000000.0,Derrick Favors, PF,2017-2018
+Miami Heat,11550000.0,Dion Waiters, SG,2017-2018
+Milwaukee Bucks,11327466.0,John Henson, F,2017-2018
+Chicago Bulls,11286516.0,Omer Asik, C,2017-2018
+Indiana Pacers,11227000.0,Monta Ellis, SG,2017-2018
+Utah Jazz,10845506.0,Alec Burks, SG,2017-2018
+San Antonio Spurs,10714286.0,Patty Mills, PG,2017-2018
+Milwaukee Bucks,10607143.0,Tony Snell, SG,2017-2018
+Orlando Magic,10500000.0,Terrence Ross, SG,2017-2018
+Milwaukee Bucks,10500000.0,Mirza Teletovic, PF,2017-2018
+Indiana Pacers,10500000.0,Bojan Bogdanovic, SF,2017-2018
+Philadelphia 76ers,10464092.0,Robert Covington, SF,2017-2018
+Cleveland Cavaliers,10337079.0,Iman Shumpert, SG,2017-2018
+Portland Trail Blazers,10162922.0,Maurice Harkless, SF,2017-2018
+Detroit Pistons,10002681.0,Jon Leuer, PF,2017-2018
+San Antonio Spurs,10000000.0,Danny Green, SG,2017-2018
+Phoenix Suns,10000000.0,Jared Dudley, SF,2017-2018
+Indiana Pacers,10000000.0,Al Jefferson, C,2017-2018
+Portland Trail Blazers,9904495.0,Meyers Leonard, PF,2017-2018
+Milwaukee Bucks,9607500.0,Matthew Dellavedova, PG,2017-2018
+Indiana Pacers,13964045.0,Thaddeus Young, PF,2017-2018
+Houston Rockets,13618750.0,Brandon Knight, PG,2017-2018
+Charlotte Hornets,13528090.0,Cody Zeller, C,2017-2018
+Charlotte Hornets,13000000.0,Michael Kidd-Gilchrist, SF,2017-2018
+Phoenix Suns,13000000.0,Tyson Chandler, C,2017-2018
+Houston Rockets,12943020.0,Eric Gordon, SG,2017-2018
+Denver Nuggets,12921348.0,Kenneth Faried, PF,2017-2018
+Washington Wizards,12782609.0,Marcin Gortat, C,2017-2018
+Orlando Magic,12750000.0,Nikola Vucevic, C,2017-2018
+LA Clippers,12650000.0,Austin Rivers, PG,2017-2018
+Miami Heat,12537527.0,Kelly Olynyk, PF,2017-2018
+Brooklyn Nets,12516746.0,Jeremy Lin, PG,2017-2018
+Los Angeles Lakers,12500000.0,Jordan Clarkson, PG,2017-2018
+Atlanta Hawks,12500000.0,Miles Plumlee, C,2017-2018
+Sacramento Kings,12307692.0,Zach Randolph, PF,2017-2018
+New York Knicks,12253780.0,Courtney Lee, SG,2017-2018
+New Orleans Pelicans,12236535.0,Solomon Hill, SF,2017-2018
+Minnesota Timberwolves,12100000.0,Nikola Pekovic, C,2017-2018
+Denver Nuggets,12016854.0,Wilson Chandler, SF,2017-2018
+Sacramento Kings,9412280.0,Bogdan Bogdanovic, SG,2017-2018
+Toronto Raptors,9367200.0,Norman Powell, SF,2017-2018
+Miami Heat,9367200.0,Josh Richardson, SG,2017-2018
+Oklahoma City Thunder,9259260.0,Andre Roberson, SG,2017-2018
+Dallas Mavericks,9003125.0,Dwight Powell, PF,2017-2018
+Philadelphia 76ers,9000000.0,Gerald Henderson, SG,2017-2018
+LA Clippers,8808989.0,Avery Bradley, SG,2017-2018
+Washington Wizards,8600000.0,Markieff Morris, PF,2017-2018
+Philadelphia 76ers,8575916.0,Jerryd Bayless, PG,2017-2018
+Memphis Grizzlies,8533333.0,JaMychal Green, PF,2017-2018
+Chicago Bulls,8470980.0,Cristiano Felicio, PF,2017-2018
+New Orleans Pelicans,8445024.0,E'Twaun Moore, G,2017-2018
+San Antonio Spurs,8406000.0,Rudy Gay, SF,2017-2018
+Sacramento Kings,8393000.0,Kosta Koufos, C,2017-2018
+Philadelphia 76ers,8339880.0,Markelle Fultz, PG,2017-2018
+Sacramento Kings,8000000.0,Garrett Temple, SG,2017-2018
+Minnesota Timberwolves,8000000.0,Kevin Garnett, PF,2017-2018
+Los Angeles Lakers,8000000.0,Yi Jianlian, SF,2017-2018
+Sacramento Kings,8000000.0,Vince Carter, SF,2017-2018
+Indiana Pacers,7945000.0,Cory Joseph, PG,2017-2018
+Toronto Raptors,7936509.0,CJ Miles, SF,2017-2018
+Golden State Warriors,7692308.0,Shaun Livingston, PG,2017-2018
+Houston Rockets,7590035.0,PJ Tucker, SF,2017-2018
+Oklahoma City Thunder,7579366.0,Corey Brewer, F,2017-2018
+Minnesota Timberwolves,7574323.0,Andrew Wiggins, SF,2017-2018
+Cleveland Cavaliers,7560000.0,Kyle Korver, SG,2017-2018
+Utah Jazz,7500000.0,Boris Diaw, C,2017-2018
+Charlotte Hornets,7488372.0,Jeremy Lamb, SG,2017-2018
+Denver Nuggets,7464912.0,Darrell Arthur, F,2017-2018
+Houston Rockets,7420912.0,Trevor Ariza, SF,2017-2018
+Los Angeles Lakers,7420912.0,Channing Frye, F,2017-2018
+Portland Trail Blazers,7400000.0,Festus Ezeli, C,2017-2018
+Portland Trail Blazers,7319035.0,Al-Farouq Aminu, PF,2017-2018
+Minnesota Timberwolves,7300000.0,Cole Aldrich, C,2017-2018
+Orlando Magic,7250000.0,D.J. Augustin, PG,2017-2018
+Atlanta Hawks,7200000.0,Dewayne Dedmon, C,2017-2018
+New York Knicks,7119650.0,Lance Thomas, SF,2017-2018
+Brooklyn Nets,7019698.0,D'Angelo Russell, PG,2017-2018
+LA Clippers,7000000.0,Boban Marjanovic, C,2017-2018
+LA Clippers,7000000.0,Lou Williams, SG,2017-2018
+Detroit Pistons,7000000.0,Langston Galloway, SG,2017-2018
+Utah Jazz,6796117.0,Jae Crowder, PF,2017-2018
+Philadelphia 76ers,6500000.0,Carl Landry, PF,2017-2018
+Philadelphia 76ers,6434520.0,Ben Simmons, PG,2017-2018
+San Antonio Spurs,6393750.0,Tim Duncan, C,2017-2018
+Portland Trail Blazers,6362998.0,Andrew Nicholson, PF,2017-2018
+Portland Trail Blazers,6352531.0,Ed Davis, PF,2017-2018
+Los Angeles Lakers,6286560.0,Lonzo Ball, PG,2017-2018
+Los Angeles Lakers,6261395.0,Isaiah Thomas, PG,2017-2018
+Minnesota Timberwolves,6216840.0,Karl-Anthony Towns, C,2017-2018
+Milwaukee Bucks,6061175.0,Spencer Hawes, PF,2017-2018
+Dallas Mavericks,6021175.0,Josh McRoberts, PF,2017-2018
+Orlando Magic,6000000.0,Shelvin Mack, PG,2017-2018
+Orlando Magic,6000000.0,Jonathon Simmons, SF,2017-2018
+Phoenix Suns,6000000.0,Alan Williams, PF,2017-2018
+Detroit Pistons,6000000.0,Ish Smith, PG,2017-2018
+LA Clippers,5882260.0,Wesley Johnson, SF,2017-2018
+Oklahoma City Thunder,5725000.0,Alex Abrines, SG,2017-2018
+New York Knicks,5697054.0,Kristaps Porzingis, PF,2017-2018
+Boston Celtics,5645400.0,Jayson Tatum, SF,2017-2018
+Phoenix Suns,5628000.0,Jared Sullinger, C,2017-2018
+Los Angeles Lakers,5519400.0,Brandon Ingram, SF,2017-2018
+LA Clippers,5513514.0,Patrick Beverley, PG,2017-2018
+Utah Jazz,5500000.0,Thabo Sefolosha, SF,2017-2018
+Shanghai Sharks,5500000.0,Luis Scola, F,2017-2018
+Washington Wizards,5450000.0,Jason Smith, PF,2017-2018
+Memphis Grizzlies,5200000.0,Ben McLemore, SG,2017-2018
+Oklahoma City Thunder,5192000.0,Patrick Patterson, PF,2017-2018
+Golden State Warriors,5192000.0,Nick Young, G,2017-2018
+Phoenix Suns,5090040.0,Josh Jackson, SF,2017-2018
+Orlando Magic,5000000.0,C.J. Watson, PG,2017-2018
+Atlanta Hawks,5000000.0,Mike Muscala, PF,2017-2018
+Boston Celtics,5000000.0,Marcus Morris, PF,2017-2018
+Utah Jazz,4992385.0,Dante Exum, PG,2017-2018
+Orlando Magic,4969080.0,Jonathan Isaac, PF,2017-2018
+LA Clippers,4961798.0,Alexis Ajinca, C,2017-2018
+Boston Celtics,4956480.0,Jaylen Brown, SG,2017-2018
+Atlanta Hawks,4837500.0,Mike Dunleavy, SG,2017-2018
+Oklahoma City Thunder,4666500.0,Kyle Singler, F,2017-2018
+Sacramento Kings,4609200.0,De'Aaron Fox, PG,2017-2018
+New York Knicks,4544000.0,Ron Baker, SG,2017-2018
+Chicago Bulls,4536120.0,Lauri Markkanen, PF,2017-2018
+Phoenix Suns,4468800.0,Dragan Bender, PF,2017-2018
+Denver Nuggets,4402546.0,Devin Harris, PG,2017-2018
+Chicago Bulls,4384616.0,Justin Holiday, SF,2017-2018
+Brooklyn Nets,4347826.0,Greivis Vasquez, PG,2017-2018
+Minnesota Timberwolves,4328000.0,Jamal Crawford, SG,2017-2018
+New York Knicks,4294480.0,Emmanuel Mudiay, PG,2017-2018
+Chicago Bulls,4221000.0,Kris Dunn, PG,2017-2018
+Dallas Mavericks,4187599.0,Nerlens Noel, PF,2017-2018
+Phoenix Suns,4187599.0,Alex Len, C,2017-2018
+New York Knicks,4155720.0,Frank Ntilikina, PG,2017-2018
+Los Angeles Lakers,4149242.0,Julius Randle, PF,2017-2018
+Minnesota Timberwolves,4000000.0,Jordan Hill, C,2017-2018
+Flamengo Flamengo,4000000.0,Leandro Barbosa, G,2017-2018
+Utah Jazz,4000000.0,Jonas Jerebko, PF,2017-2018
+Minnesota Timberwolves,3949999.0,Nemanja Bjelica, PF,2017-2018
+Detroit Pistons,3940402.0,Stanley Johnson, SF,2017-2018
+Dallas Mavericks,3903900.0,J.J. Barea, PG,2017-2018
+Chicago Bulls,3853931.0,Quincy Pondexter, SF,2017-2018
+Sacramento Kings,3704160.0,Willie Cauley-Stein, C,2017-2018
+Sacramento Kings,3675480.0,Buddy Hield, SG,2017-2018
+Charlotte Hornets,3627842.0,Frank Kaminsky, PF,2017-2018
+Washington Wizards,3547000.0,Drew Gooden, PF,2017-2018
+Denver Nuggets,3533333.0,Will Barton, SG,2017-2018
+LA Clippers,3527920.0,Paul Pierce, SF,2017-2018
+Denver Nuggets,3500000.0,Mike Miller, SG,2017-2018
+Houston Rockets,3477600.0,Nene Hilario, C,2017-2018
+Golden State Warriors,3477600.0,Zaza Pachulia, C,2017-2018
+Washington Wizards,3454500.0,Jodie Meeks, SG,2017-2018
+Miami Heat,3448926.0,Justise Winslow, SF,2017-2018
+Charlotte Hornets,3447480.0,Malik Monk, SG,2017-2018
+Indiana Pacers,3410284.0,Myles Turner, C,2017-2018
+Phoenix Suns,3408520.0,Troy Daniels, SG,2017-2018
+Denver Nuggets,3355320.0,Jamal Murray, PG,2017-2018
+Phoenix Suns,3332340.0,Elfrid Payton, PG,2017-2018
+New Orleans Pelicans,3300000.0,Rajon Rondo, PG,2017-2018
+New York Knicks,3294994.0,Doug McDermott, SF,2017-2018
+Detroit Pistons,3290000.0,Anthony Tolliver, PF,2017-2018
+Memphis Grizzlies,3290000.0,Tyreke Evans, SG,2017-2018
+Houston Rockets,3290000.0,Tarik Black, C,2017-2018
+Detroit Pistons,3275280.0,Luke Kennard, SG,2017-2018
+Chicago Bulls,3263294.0,Cameron Payne, PG,2017-2018
+Dallas Mavericks,3218280.0,Dennis Smith Jr., PG,2017-2018
+Washington Wizards,3208630.0,Kelly Oubre Jr., SF,2017-2018
+Utah Jazz,3200000.0,Ekpe Udoh, C,2017-2018
+Phoenix Suns,3152931.0,TJ Warren, SF,2017-2018
+Phoenix Suns,3073800.0,Marquese Chriss, PF,2017-2018
+Portland Trail Blazers,3057240.0,Zach Collins, PF,2017-2018
+Portland Trail Blazers,3028410.0,Seth Curry, SG,2017-2018
+New York Knicks,3025035.0,Mindaugas Kuzminskas, F,2017-2018
+Beijing Ducks,3000000.0,Justin Hamilton, C,2017-2018
+Washington Wizards,3000000.0,Tomas Satoransky, SG,2017-2018
+Philadelphia 76ers,3000000.0,Tibor Pleiss, C,2017-2018
+Miami Heat,2955840.0,Bam Adebayo, C,2017-2018
+Toronto Raptors,2947320.0,Jakob Poeltl, C,2017-2018
+Portland Trail Blazers,2947305.0,Jusuf Nurkic, C,2017-2018
+Milwaukee Bucks,2799720.0,Thon Maker, PF,2017-2018
+Cleveland Cavaliers,2775000.0,Cedi Osman, SF,2017-2018
+Indiana Pacers,2659800.0,Domantas Sabonis, PF,2017-2018
+Chicago Bulls,2639314.0,Jerian Grant, PG,2017-2018
+Utah Jazz,2621280.0,Donovan Mitchell, SG,2017-2018
+Denver Nuggets,2550055.0,Gary Harris, SG,2017-2018
+Toronto Raptors,2536898.0,Delon Wright, PG,2017-2018
+Milwaukee Bucks,2534280.0,D.J. Wilson, PF,2017-2018
+Philadelphia 76ers,2526840.0,Dario Saric, PF,2017-2018
+Atlanta Hawks,2526840.0,Taurean Prince, SF,2017-2018
+Philadelphia 76ers,2516048.0,Justin Anderson, SG,2017-2018
+San Antonio Spurs,2500000.0,Manu Ginobili, G,2017-2018
+Detroit Pistons,2500000.0,Reggie Bullock, SG,2017-2018
+Chicago Bulls,2494346.0,Bobby Portis, PF,2017-2018
+Brooklyn Nets,2470357.0,Rondae Hollis-Jefferson, SF,2017-2018
+Toronto Raptors,2451225.0,Bruno Caboclo, F,2017-2018
+Cleveland Cavaliers,2445085.0,Kendrick Perkins, C,2017-2018
+Denver Nuggets,2441400.0,Trey Lyles, PF,2017-2018
+Indiana Pacers,2407560.0,T.J. Leaf, PF,2017-2018
+Sacramento Kings,2365560.0,Justin Jackson, SF,2017-2018
+Portland Trail Blazers,2361360.0,Shabazz Napier, PG,2017-2018
+Houston Rockets,2334528.0,Clint Capela, C,2017-2018
+Phoenix Suns,2319360.0,Devin Booker, SG,2017-2018
+Atlanta Hawks,2299080.0,John Collins, PF,2017-2018
+Chicago Bulls,2280600.0,Denzel Valentine, SG,2017-2018
+Los Angeles Lakers,2272391.0,Larry Nance Jr., PF,2017-2018
+Minnesota Timberwolves,2247480.0,Justin Patton, C,2017-2018
+Boston Celtics,2247480.0,Guerschon Yabusele, PF,2017-2018
+Milwaukee Bucks,2222803.0,Brandon Jennings, G,2017-2018
+Denver Nuggets,2194500.0,Mo Williams, PG,2017-2018
+San Antonio Spurs,2151704.0,Kyle Anderson, SF,2017-2018
+New Orleans Pelicans,2100000.0,Darius Miller, SF,2017-2018
+Denver Nuggets,2076840.0,Juan Hernangomez, PF,2017-2018
+Brooklyn Nets,2054856.0,Sean Kilpatrick, G,2017-2018
+Milwaukee Bucks,2048257.0,Kendall Marshall, PG,2017-2018
+Toronto Raptors,2034120.0,OG Anunoby, SF,2017-2018
+Brooklyn Nets,2034120.0,Jarrett Allen, C,2017-2018
+Boston Celtics,1988520.0,Terry Rozier, PG,2017-2018
+Indiana Pacers,1974159.0,Kevin Seraphin, C,2017-2018
+Cleveland Cavaliers,1952760.0,Ante Zizic, C,2017-2018
+Brooklyn Nets,1933941.0,Tyler Zeller, C,2017-2018
+Orlando Magic,1889040.0,Rashad Vaughn, G,2017-2018
+Sacramento Kings,1859400.0,Harry Giles, PF,2017-2018
+Detroit Pistons,1857480.0,Henry Ellenson, PF,2017-2018
+Detroit Pistons,1826300.0,Eric Moreland, C,2017-2018
+LA Clippers,1794600.0,Sam Dekker, SF,2017-2018
+Oklahoma City Thunder,1785000.0,Terrance Ferguson, SG,2017-2018
+Philadelphia 76ers,1740000.0,Furkan Korkmaz, SG,2017-2018
+Brooklyn Nets,1702800.0,Caris LeVert, SG,2017-2018
+Denver Nuggets,1700640.0,Malik Beasley, SG,2017-2018
+Brooklyn Nets,1656092.0,Spencer Dinwiddie, PG,2017-2018
+Charlotte Hornets,1656092.0,Julyan Stone, G,2017-2018
+Atlanta Hawks,1634640.0,DeAndre' Bembry, SF,2017-2018
+Philadelphia 76ers,1600520.0,Richaun Holmes, PF,2017-2018
+Detroit Pistons,1600520.0,Dwight Buycks, G,2017-2018
+Denver Nuggets,1579440.0,Tyler Lydon, PF,2017-2018
+Atlanta Hawks,1577230.0,Ryan Kelly, PF,2017-2018
+Portland Trail Blazers,1577230.0,Archie Goodwin, SG,2017-2018
+Dallas Mavericks,1577230.0,Jeff Withey, C,2017-2018
+Toronto Raptors,1569360.0,Malachi Richardson, SG,2017-2018
+Sacramento Kings,1551659.0,Caron Butler, SF,2017-2018
+Toronto Raptors,1544951.0,Pascal Siakam, PF,2017-2018
+Charlotte Hornets,1544951.0,Willy Hernangomez, C,2017-2018
+Miami Heat,1544951.0,Okaro White, F,2017-2018
+Milwaukee Bucks,1544951.0,Malcolm Brogdon, PG,2017-2018
+New York Knicks,1544951.0,Troy Williams, SF,2017-2018
+Atlanta Hawks,1544951.0,Isaiah Taylor, G,2017-2018
+Oklahoma City Thunder,1526040.0,Mitch McGary, PF,2017-2018
+San Antonio Spurs,1524305.0,Joffrey Lauvergne, F,2017-2018
+Oklahoma City Thunder,1524305.0,Jerami Grant, SF,2017-2018
+Charlotte Hornets,1524305.0,Johnny O'Bryant III, PF,2017-2018
+Los Angeles Lakers,1524305.0,Tyler Ennis, G,2017-2018
+Houston Rockets,1500000.0,Marcelo Huertas, PG,2017-2018
+Golden State Warriors,1471382.0,Omri Casspi, SF,2017-2018
+Memphis Grizzlies,1471382.0,Mario Chalmers, G,2017-2018
+Oklahoma City Thunder,1471382.0,KJ McDaniels, F,2017-2018
+Oklahoma City Thunder,1471382.0,Raymond Felton, PG,2017-2018
+Portland Trail Blazers,1471382.0,Pat Connaughton, SG,2017-2018
+Utah Jazz,1471382.0,Raul Neto, PG,2017-2018
+Washington Wizards,1471382.0,Chris McCullough, F,2017-2018
+Atlanta Hawks,1471382.0,Jeremy Evans, F,2017-2018
+Portland Trail Blazers,1465920.0,Caleb Swanigan, PF,2017-2018
+Memphis Grizzlies,1465080.0,Jordan Adams, SG,2017-2018
+Denver Nuggets,1454756.0,Richard Jefferson, F,2017-2018
+Los Angeles Lakers,1423560.0,Kyle Kuzma, PF,2017-2018
+Utah Jazz,1414920.0,Tony Bradley, C,2017-2018
+San Antonio Spurs,1404600.0,Derrick White, PG,2017-2018
+Los Angeles Lakers,1394520.0,Josh Hart, SG,2017-2018
+Philadelphia 76ers,1386600.0,Timothe Luwawu-Cabarrot, SG,2017-2018
+New Orleans Pelicans,1379940.0,Josh Smith, PF,2017-2018
+Orlando Magic,1378242.0,Khem Birch, C,2017-2018
+Orlando Magic,1378242.0,Wesley Iwundu, SF,2017-2018
+Milwaukee Bucks,1378242.0,Sterling Brown, SG,2017-2018
+Charlotte Hornets,1378242.0,Dwayne Bacon, SG,2017-2018
+New York Knicks,1378242.0,Damyean Dotson, SG,2017-2018
+Orlando Magic,1378242.0,Rodney Purvis, G,2017-2018
+Indiana Pacers,1378242.0,Alex Poythress, SF,2017-2018
+Atlanta Hawks,1378242.0,Tyler Dorsey, SG,2017-2018
+New York Knicks,1350000.0,Guillermo Hernangomez, C,2017-2018
+Philadelphia 76ers,1333240.0,Sasha Kaun, C,2017-2018
+Memphis Grizzlies,1331160.0,Brice Johnson, PF,2017-2018
+Memphis Grizzlies,1312611.0,Deyonta Davis, C,2017-2018
+Memphis Grizzlies,1312611.0,Wayne Selden, SG,2017-2018
+Memphis Grizzlies,1312611.0,Andrew Harrison, G,2017-2018
+Toronto Raptors,1312611.0,Kyle Wiltjer, F,2017-2018
+San Antonio Spurs,1312611.0,Davis Bertans, SF,2017-2018
+Washington Wizards,1312611.0,Chasson Randle, PG,2017-2018
+Washington Wizards,1312611.0,Carrick Felix, SG,2017-2018
+Washington Wizards,1312611.0,Daniel Ochefu, PF,2017-2018
+Dallas Mavericks,1312611.0,Yogi Ferrell, PG,2017-2018
+Minnesota Timberwolves,1312611.0,Marcus Georges-Hunt, F,2017-2018
+Atlanta Hawks,1312611.0,Sheldon Mac, SG,2017-2018
+Milwaukee Bucks,1300000.0,Khris Middleton, SF,2017-2018
+Boston Celtics,1291892.0,Semi Ojeleye, PF,2017-2018
+San Antonio Spurs,1188840.0,Livio Jean-Charles, SF,2017-2018
+Sacramento Kings,1184385.0,Frank Mason III, PG,2017-2018
+Boston Celtics,1167333.0,Abdel Nader, SF,2017-2018
+Memphis Grizzlies,1050961.0,Tony Wroten, SG,2017-2018
+New York Knicks,1050961.0,John Jenkins, G,2017-2018
+Houston Rockets,1050961.0,Chris Johnson, SG,2017-2018
+Phoenix Suns,1015696.0,Anthony Bennett, PF,2017-2018
+Houston Rockets,1015696.0,Andrew Goudelock, PG,2017-2018
+Phoenix Suns,997547.0,Isaiah Canaan, PG,2017-2018
+Flamengo Flamengo,980431.0,Anderson Varejao, C,2017-2018
+Golden State Warriors,980431.0,Elliot Williams, SG,2017-2018
+LA Clippers,980431.0,Devyn Marble, SF,2017-2018
+Orlando Magic,980431.0,Arinze Onuaku, PF,2017-2018
+Minnesota Timberwolves,980431.0,Rasual Butler, SF,2017-2018
+Oklahoma City Thunder,980431.0,Chris Wright, SF,2017-2018
+Milwaukee Bucks,980431.0,Steve Novak, SF,2017-2018
+Philadelphia 76ers,980431.0,Cory Jefferson, F,2017-2018
+Sacramento Kings,980431.0,Jordan Farmar, PG,2017-2018
+Brooklyn Nets,980431.0,Jorge Gutierrez, PG,2017-2018
+Utah Jazz,980431.0,Henry Sims, C,2017-2018
+Atlanta Hawks,980431.0,Will Bynum, PG,2017-2018
+Memphis Grizzlies,950000.0,Ivan Rabb, PF,2017-2018
+Memphis Grizzlies,950000.0,Rade Zagorac, SF,2017-2018
+New Orleans Pelicans,895197.0,Reggie Williams, SF,2017-2018
+Memphis Grizzlies,874636.0,D.J. Kennedy, SG,2017-2018
+Memphis Grizzlies,874636.0,DJ Stephens, SG,2017-2018
+Milwaukee Bucks,874636.0,Christian Wood, PF,2017-2018
+San Antonio Spurs,874636.0,Nick Johnson, G,2017-2018
+Melbourne United,874636.0,Casper Ware, G,2017-2018
+Washington Wizards,874636.0,Jordan McRae, SG,2017-2018
+Miami Heat,874636.0,Keith Benson, PF,2017-2018
+New Orleans Pelicans,874636.0,Cliff Alexander, PF,2017-2018
+Houston Rockets,872854.0,Gerald Green, SG,2017-2018
+Memphis Grizzlies,815615.0,Xavier Rathan-Mayes, SG,2017-2018
+Memphis Grizzlies,815615.0,Dillon Brooks, SG,2017-2018
+Oklahoma City Thunder,815615.0,Dakari Johnson, C,2017-2018
+Milwaukee Bucks,815615.0,JeQuan Lewis, PG,2017-2018
+Minnesota Timberwolves,815615.0,Melo Trimble, PG,2017-2018
+Oklahoma City Thunder,815615.0,Rashawn Thomas, PF,2017-2018
+Oklahoma City Thunder,815615.0,Bryce Alford, G,2017-2018
+Charlotte Hornets,815615.0,Luke Petrasek, SF,2017-2018
+Charlotte Hornets,815615.0,T.J. Williams, PG,2017-2018
+Charlotte Hornets,815615.0,Terry Henderson, SG,2017-2018
+Utah Jazz,815615.0,Erik McCree, F,2017-2018
+Utah Jazz,815615.0,Royce O'Neale, SF,2017-2018
+Boston Celtics,815615.0,Daniel Theis, PF,2017-2018
+Boston Celtics,815615.0,L.J. Peak, SG,2017-2018
+Atlanta Hawks,815615.0,Jordan Mathews, SG,2017-2018
+Atlanta Hawks,679919.0,Tyler Cavanaugh, PF,2017-2018
+New Orleans Pelicans,592030.0,Emeka Okafor, C,2017-2018
+Milwaukee Bucks,588120.0,DeAndre Liggins, G,2017-2018
+Golden State Warriors,543471.0,Elgin Cook, SF,2017-2018
+Golden State Warriors,543471.0,Scott Wood, SG,2017-2018
+Golden State Warriors,543471.0,Cameron Jones, SG,2017-2018
+Toronto Raptors,543471.0,Brady Heslip, SG,2017-2018
+Toronto Raptors,543471.0,Yanick Moreira, C,2017-2018
+Charlotte Hornets,543471.0,Andrew Andrews, G,2017-2018
+Charlotte Hornets,543471.0,Rasheed Sulaimon, G,2017-2018
+Phoenix Suns,543471.0,Gracin Bakumanya, C,2017-2018
+Utah Jazz,543471.0,Isaiah Cousins, G,2017-2018
+New York Knicks,543471.0,J.P. Tokoto, SG,2017-2018
+Detroit Pistons,543471.0,Nikola Jovanovic, PF,2017-2018
+Detroit Pistons,543471.0,Trey Freeman, PG,2017-2018
+Boston Celtics,543471.0,Jonathan Holmes, PF,2017-2018
+Memphis Grizzlies,490461.0,Brandan Wright, F,2017-2018
+Utah Jazz,473835.0,Joe Johnson, G,2017-2018
+Memphis Grizzlies,379159.0,Toney Douglas, PG,2017-2018
+LA Clippers,375000.0,C.J. Williams, SG,2017-2018
+Minnesota Timberwolves,290951.0,Derrick Rose, PG,2017-2018
+Atlanta Hawks,246956.0,Lamar Patterson, SG,2017-2018
+Portland Trail Blazers,229892.0,Wade Baldwin IV, PG,2017-2018
+Cleveland Cavaliers,207722.0,Larry Sanders, PF,2017-2018
+Sacramento Kings,185397.0,Georgios Papagiannis, C,2017-2018
+Phoenix Suns,175000.0,Shaquille Harrison, PG,2017-2018
+Los Angeles Lakers,148318.0,Travis Wear, F,2017-2018
+Charlotte Hornets,121112.0,Ray McCallum, PG,2017-2018
+Dallas Mavericks,115344.0,Manny Harris, PG,2017-2018
+Houston Rockets,96406.0,Tim Quarterman, G,2017-2018
+Dallas Mavericks,91442.0,Aaron Harrison, G,2017-2018
+Memphis Grizzlies,74186.0,Marquis Teague, G,2017-2018
+Charlotte Hornets,67135.0,Mike Tobey, C,2017-2018
+Memphis Grizzlies,60283.0,MarShon Brooks, SG,2017-2018
+New Orleans Pelicans,58190.0,Jordan Crawford, G,2017-2018
+Philadelphia 76ers,57672.0,Justin Harper, PF,2017-2018
+Denver Nuggets,57672.0,Alonzo Gee, SF,2017-2018
+Toronto Raptors,55296.0,Nigel Hayes, F,2017-2018
+Utah Jazz,44495.0,David Stockton, G,2017-2018
+Boston Celtics,44495.0,Jonathan Gibson, G,2017-2018
+Dallas Mavericks,31969.0,Pierre Jackson, PG,2017-2018
+Los Angeles Lakers,13824.0,Andre Ingram, G,2017-2018
+Orlando Magic,4608.0,Amile Jefferson, PF,2017-2018
+Houston Rockets,4608.0,Aaron Jackson, F,2017-2018

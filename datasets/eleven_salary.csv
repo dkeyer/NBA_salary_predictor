@@ -1,0 +1,448 @@
+team,salary,player,position,season
+Los Angeles Lakers,24806250.0,Kobe Bryant, SF,2010-2011
+Memphis Grizzlies,17666666.0,Zach Randolph, PF,2010-2011
+Phoenix Suns,17522375.0,Vince Carter, SF,2010-2011
+Dallas Mavericks,17278618.0,Dirk Nowitzki, PF,2010-2011
+New York Knicks,17149243.0,Carmelo Anthony, PF,2010-2011
+Orlando Magic,16647180.0,Dwight Howard, C,2010-2011
+Denver Nuggets,16545454.0,Kenyon Martin, PF,2010-2011
+New York Knicks,16486611.0,Amar'e Stoudemire, C,2010-2011
+Atlanta Hawks,16324500.0,Joe Johnson, G,2010-2011
+Philadelphia 76ers,15959099.0,Elton Brand, PF,2010-2011
+New Orleans Hornets,14940153.0,Chris Paul, PG,2010-2011
+Washington Wizards,19573711.0,Rashard Lewis, PF,2010-2011
+Utah Jazz,14940153.0,Deron Williams, PG,2010-2011
+Miami Heat,14500000.0,Chris Bosh, PF,2010-2011
+Miami Heat,14500000.0,LeBron James, SF,2010-2011
+Phoenix Suns,14444443.0,Jason Richardson, SG,2010-2011
+Chicago Bulls,14400000.0,Carlos Boozer, PF,2010-2011
+Miami Heat,14200000.0,Dwyane Wade, SG,2010-2011
+LA Clippers,14000000.0,Baron Davis, PG,2010-2011
+Boston Celtics,13876321.0,Paul Pierce, SF,2010-2011
+Los Angeles Lakers,13700000.0,Andrew Bynum, C,2010-2011
+Memphis Grizzlies,13603750.0,Rudy Gay, SF,2010-2011
+San Antonio Spurs,18835381.0,Tim Duncan, C,2010-2011
+Portland Trail Blazers,13603750.0,Brandon Roy, SG,2010-2011
+San Antonio Spurs,13500000.0,Tony Parker, PG,2010-2011
+Sacramento Kings,13428129.0,Samuel Dalembert, C,2010-2011
+Cleveland Cavaliers,13358905.0,Antawn Jamison, PF,2010-2011
+Oklahoma City Thunder,13270000.0,Nick Collison, F,2010-2011
+New York Knicks,13150000.0,Chauncey Billups, PG,2010-2011
+Utah Jazz,13000000.0,Al Jefferson, C,2010-2011
+Dallas Mavericks,12600000.0,Tyson Chandler, C,2010-2011
+Detroit Pistons,12500000.0,Richard Hamilton, SG,2010-2011
+Philadelphia 76ers,12345250.0,Andre Iguodala, SG,2010-2011
+Boston Celtics,18832044.0,Kevin Garnett, PF,2010-2011
+San Antonio Spurs,11854584.0,Manu Ginobili, G,2010-2011
+Milwaukee Bucks,18300000.0,Michael Redd, SG,2010-2011
+Los Angeles Lakers,17823000.0,Pau Gasol, C,2010-2011
+Utah Jazz,17823000.0,Andrei Kirilenko, SF,2010-2011
+Washington Wizards,17730694.0,Gilbert Arenas, PG,2010-2011
+Houston Rockets,17686100.0,Yao Ming, C,2010-2011
+LA Clippers,11800000.0,Chris Kaman, C,2010-2011
+Portland Trail Blazers,11749832.0,Marcus Camby, C,2010-2011
+Atlanta Hawks,11700000.0,Josh Smith, PF,2010-2011
+Miami Heat,11530592.0,Eddy Curry, C,2010-2011
+New Orleans Hornets,11495000.0,Emeka Okafor, C,2010-2011
+Denver Nuggets,11360000.0,Nene Hilario, C,2010-2011
+Chicago Bulls,11345000.0,Luol Deng, SF,2010-2011
+Portland Trail Blazers,11244000.0,LaMarcus Aldridge, PF,2010-2011
+Detroit Pistons,11148760.0,Tayshaun Prince, SF,2010-2011
+Milwaukee Bucks,11000000.0,Andrew Bogut, C,2010-2011
+Golden State Warriors,11000000.0,Monta Ellis, SG,2010-2011
+Indiana Pacers,10973202.0,Danny Granger, SF,2010-2011
+Golden State Warriors,10800000.0,David Lee, PF,2010-2011
+Atlanta Hawks,10800000.0,Jamal Crawford, SG,2010-2011
+Detroit Pistons,10800000.0,Ben Gordon, SG,2010-2011
+Houston Rockets,10600005.0,Kevin Martin, SG,2010-2011
+Indiana Pacers,10561984.0,Mike Dunleavy, SG,2010-2011
+Dallas Mavericks,10561960.0,Caron Butler, SF,2010-2011
+Charlotte Bobcats,10500000.0,Gerald Wallace, SF,2010-2011
+Phoenix Suns,10310938.0,Steve Nash, PG,2010-2011
+Phoenix Suns,10215850.0,Hedo Turkoglu, SF,2010-2011
+Boston Celtics,10000000.0,Ray Allen, SG,2010-2011
+Utah Jazz,9945000.0,Mehmet Okur, C,2010-2011
+Dallas Mavericks,9873000.0,Jason Terry, G,2010-2011
+Milwaukee Bucks,9600000.0,Corey Maggette, SF,2010-2011
+LA Clippers,9500000.0,Cuttino Mobley, SG,2010-2011
+LA Clippers,9300000.0,Mo Williams, PG,2010-2011
+Washington Wizards,9100000.0,Kirk Hinrich, SG,2010-2011
+Boston Celtics,9090911.0,Rajon Rondo, PG,2010-2011
+Golden State Warriors,9000000.0,Andris Biedrins, C,2010-2011
+Charlotte Bobcats,9000000.0,Boris Diaw, C,2010-2011
+Toronto Raptors,9000000.0,Jose Calderon, PG,2010-2011
+Utah Jazz,8981000.0,Devin Harris, PG,2010-2011
+Dallas Mavericks,8610500.0,Jason Kidd, PG,2010-2011
+Toronto Raptors,8500000.0,Andrea Bargnani, C,2010-2011
+Indiana Pacers,8500000.0,T.J. Ford, PG,2010-2011
+Charlotte Bobcats,8453250.0,Stephen Jackson, SF,2010-2011
+San Antonio Spurs,8400000.0,Richard Jefferson, F,2010-2011
+New Orleans Hornets,8287500.0,David West, F,2010-2011
+Los Angeles Lakers,8200000.0,Lamar Odom, PF,2010-2011
+Dallas Mavericks,6900000.0,Brendan Haywood, C,2010-2011
+Charlotte Bobcats,6883800.0,Nazr Mohammed, C,2010-2011
+Golden State Warriors,6883800.0,Vladimir Radmanovic, SF,2010-2011
+Philadelphia 76ers,6850000.0,Andres Nocioni, SF,2010-2011
+Miami Heat,6760524.0,Greg Oden, C,2010-2011
+Denver Nuggets,6757851.0,JR Smith, SG,2010-2011
+Oklahoma City Thunder,6696720.0,Kendrick Perkins, C,2010-2011
+Oklahoma City Thunder,6665000.0,Morris Peterson, SG,2010-2011
+Indiana Pacers,6655000.0,Jeff Foster, PF,2010-2011
+Philadelphia 76ers,6641440.0,Jason Kapono, SG,2010-2011
+Charlotte Bobcats,6611570.0,Tyrus Thomas, PF,2010-2011
+Chicago Bulls,6600000.0,Jerome James, C,2010-2011
+Phoenix Suns,6500000.0,Josh Childress, F,2010-2011
+Sacramento Kings,6478600.0,Beno Udrih, PG,2010-2011
+Charlotte Bobcats,6478600.0,DeSagana Diop, C,2010-2011
+Chicago Bulls,6466600.0,Mike James, PG,2010-2011
+New Orleans Hornets,6322320.0,Trevor Ariza, SF,2010-2011
+Los Angeles Lakers,6322320.0,Metta World Peace, SF,2010-2011
+New York Knicks,6322320.0,Rasheed Wallace, PF,2010-2011
+Phoenix Suns,6322320.0,Marcin Gortat, C,2010-2011
+Oklahoma City Thunder,6053663.0,Kevin Durant, SF,2010-2011
+Milwaukee Bucks,8000000.0,John Salmons, SF,2010-2011
+Miami Heat,7967375.0,Mark Blount, C,2010-2011
+Orlando Magic,7800000.0,Jameer Nelson, G,2010-2011
+Houston Rockets,7775378.0,Luis Scola, F,2010-2011
+Charlotte Bobcats,7725470.0,Joel Przybilla, C,2010-2011
+Utah Jazz,7600000.0,Paul Millsap, PF,2010-2011
+Memphis Grizzlies,7354500.0,Shane Battier, SF,2010-2011
+Cleveland Cavaliers,7281818.0,Anderson Varejao, C,2010-2011
+Portland Trail Blazers,7269264.0,Andre Miller, PG,2010-2011
+Atlanta Hawks,7262500.0,Marvin Williams, PF,2010-2011
+Orlando Magic,7250000.0,JJ Redick, SG,2010-2011
+New Jersey Nets,7248325.0,Dan Gadzuric, C,2010-2011
+Indiana Pacers,7148800.0,James Posey, SF,2010-2011
+Toronto Raptors,7100000.0,Leandro Barbosa, G,2010-2011
+Brooklyn Nets,7100000.0,Marko Jaric, PG,2010-2011
+Dallas Mavericks,7055500.0,Shawn Marion, SG,2010-2011
+Detroit Pistons,7020000.0,Charlie Villanueva, PF,2010-2011
+New York Knicks,7000000.0,Raymond Felton, PG,2010-2011
+New Jersey Nets,7000000.0,Travis Outlaw, SF,2010-2011
+Washington Wizards,5904152.0,Andray Blatche, C,2010-2011
+Denver Nuggets,5765000.0,Al Harrington, PF,2010-2011
+Milwaukee Bucks,5765000.0,Drew Gooden, PF,2010-2011
+Portland Trail Blazers,5765000.0,Wesley Matthews, SG,2010-2011
+Houston Rockets,5750000.0,Kyle Lowry, PG,2010-2011
+Chicago Bulls,5546160.0,Derrick Rose, PG,2010-2011
+Oklahoma City Thunder,5543116.0,Nenad Krstic, C,2010-2011
+Sacramento Kings,5500000.0,Francisco Garcia, SG,2010-2011
+New Jersey Nets,5475113.0,Sasha Vujacic, SG,2010-2011
+Atlanta Hawks,5444857.0,Al Horford, C,2010-2011
+LA Clippers,5357280.0,Blake Griffin, PF,2010-2011
+Phoenix Suns,5300000.0,Mickael Pietrus, SF,2010-2011
+Los Angeles Lakers,5260000.0,Luke Walton, SF,2010-2011
+Atlanta Hawks,5209454.0,Speedy Claxton, PG,2010-2011
+Phoenix Suns,5200000.0,Channing Frye, F,2010-2011
+Washington Wizards,5144280.0,John Wall, PG,2010-2011
+Toronto Raptors,5080000.0,Reggie Evans, C,2010-2011
+Detroit Pistons,5000000.0,Jason Maxiell, PF,2010-2011
+Chicago Bulls,5000000.0,Kyle Korver, SG,2010-2011
+Toronto Raptors,4995000.0,Linas Kleiza, SF,2010-2011
+Minnesota Timberwolves,4962240.0,Michael Beasley, SF,2010-2011
+Memphis Grizzlies,4913077.0,Mike Conley, PG,2010-2011
+San Antonio Spurs,4860000.0,Antonio McDyess, PF,2010-2011
+Toronto Raptors,4847586.0,Marcus Banks, PG,2010-2011
+Philadelphia 76ers,4818000.0,Darius Songaila, PF,2010-2011
+Minnesota Timberwolves,4800000.0,Martell Webster, SF,2010-2011
+Memphis Grizzlies,4793280.0,Hasheem Thabeet, C,2010-2011
+Chicago Bulls,4790000.0,Ronnie Brewer, SF,2010-2011
+Philadelphia 76ers,4602720.0,Evan Turner, SG,2010-2011
+Toronto Raptors,4600000.0,Jarrett Jack, G,2010-2011
+Denver Nuggets,4533300.0,Chris Andersen, PF,2010-2011
+Memphis Grizzlies,4456200.0,O.J. Mayo, SG,2010-2011
+Oklahoma City Thunder,4455988.0,Jeff Green, SF,2010-2011
+Golden State Warriors,4447792.0,Charlie Bell, SG,2010-2011
+Houston Rockets,4400000.0,Brad Miller, C,2010-2011
+Minnesota Timberwolves,4325000.0,Darko Milicic, C,2010-2011
+Oklahoma City Thunder,4304520.0,James Harden, PG,2010-2011
+Charlotte Bobcats,4300000.0,Matt Carroll, SG,2010-2011
+Minnesota Timberwolves,4275000.0,Nikola Pekovic, C,2010-2011
+Atlanta Hawks,4251250.0,Zaza Pachulia, C,2010-2011
+Phoenix Suns,4250000.0,Hakim Warrick, PF,2010-2011
+LA Clippers,4250000.0,Randy Foye, SG,2010-2011
+Oklahoma City Thunder,4200000.0,Nate Robinson, PG,2010-2011
+Dallas Mavericks,4151786.0,DeShawn Stevenson, SG,2010-2011
+Utah Jazz,4133280.0,Derrick Favors, PF,2010-2011
+San Antonio Spurs,4100000.0,Bruce Bowen, SF,2010-2011
+Memphis Grizzlies,4080915.0,Greg Buckner, SG,2010-2011
+Washington Wizards,4050499.0,Yi Jianlian, SF,2010-2011
+Oklahoma City Thunder,4017720.0,Russell Westbrook, PG,2010-2011
+Cleveland Cavaliers,4015334.0,Daniel Gibson, SG,2010-2011
+New York Knicks,4000000.0,Ronny Turiaf, C,2010-2011
+Minnesota Timberwolves,4000000.0,Luke Ridnour, PG,2010-2011
+LA Clippers,4000000.0,Ryan Gomes, SF,2010-2011
+New Orleans Hornets,3976000.0,Willie Green, SG,2010-2011
+Cleveland Cavaliers,3964320.0,Ramon Sessions, G,2010-2011
+Sacramento Kings,3880920.0,Tyreke Evans, SG,2010-2011
+Minnesota Timberwolves,3875000.0,Corey Brewer, F,2010-2011
+New Jersey Nets,3750000.0,Jordan Farmar, PG,2010-2011
+Minnesota Timberwolves,3726600.0,Wesley Johnson, SF,2010-2011
+Utah Jazz,3700000.0,CJ Miles, SF,2010-2011
+Los Angeles Lakers,3700000.0,Derek Fisher, PG,2010-2011
+Minnesota Timberwolves,3638280.0,Kevin Love, PF,2010-2011
+Chicago Bulls,3600000.0,C.J. Watson, PG,2010-2011
+Memphis Grizzlies,3573333.0,Marc Gasol, C,2010-2011
+New York Knicks,3567096.0,Timofey Mozgov, C,2010-2011
+Golden State Warriors,3540000.0,Dorell Wright, SF,2010-2011
+Orlando Magic,3500000.0,Chris Duhon, PG,2010-2011
+Miami Heat,3500000.0,Udonis Haslem, PF,2010-2011
+Charlotte Bobcats,3500000.0,Shaun Livingston, PG,2010-2011
+San Antonio Spurs,3400000.0,Tiago Splitter, C,2010-2011
+New Jersey Nets,3398072.0,Brandan Wright, F,2010-2011
+Sacramento Kings,3374640.0,DeMarcus Cousins, C,2010-2011
+New York Knicks,3304560.0,Danilo Gallinari, SF,2010-2011
+Miami Heat,3300000.0,Joel Anthony, PF,2010-2011
+Cleveland Cavaliers,3300000.0,Kelenna Azubuike, SF,2010-2011
+Oklahoma City Thunder,3250000.0,Thabo Sefolosha, SF,2010-2011
+Detroit Pistons,3250000.0,Will Bynum, PG,2010-2011
+New Jersey Nets,3250000.0,Johan Petro, C,2010-2011
+Phoenix Suns,3240000.0,Grant Hill, SF,2010-2011
+New Jersey Nets,3200000.0,Kris Humphries, PF,2010-2011
+Minnesota Timberwolves,3192000.0,Jonny Flynn, PG,2010-2011
+Chicago Bulls,3128536.0,Joakim Noah, C,2010-2011
+Golden State Warriors,3065040.0,Ekpe Udoh, C,2010-2011
+San Antonio Spurs,3050000.0,Matt Bonner, C,2010-2011
+LA Clippers,3016680.0,Eric Gordon, SG,2010-2011
+Boston Celtics,3000004.0,Glen Davis, PF,2010-2011
+Utah Jazz,3000000.0,Raja Bell, SG,2010-2011
+LA Clippers,3000000.0,Jamario Moon, SF,2010-2011
+Charlotte Bobcats,3000000.0,Eduardo Najera, PF,2010-2011
+Memphis Grizzlies,3000000.0,Tony Allen, SG,2010-2011
+Detroit Pistons,3000000.0,Chris Wilcox, PF,2010-2011
+Philadelphia 76ers,2974320.0,Spencer Hawes, PF,2010-2011
+Golden State Warriors,2913840.0,Stephen Curry, PG,2010-2011
+Philadelphia 76ers,2901241.0,Thaddeus Young, PF,2010-2011
+Toronto Raptors,2858057.0,Julian Wright, SF,2010-2011
+Cleveland Cavaliers,2855769.0,Anthony Parker, SG,2010-2011
+Minnesota Timberwolves,2840000.0,Mark Madsen, PF,2010-2011
+Detroit Pistons,2798040.0,Greg Monroe, C,2010-2011
+Detroit Pistons,2767126.0,Rodney Stuckey, PG,2010-2011
+Minnesota Timberwolves,2700000.0,Sebastian Telfair, PG,2010-2011
+Houston Rockets,2669520.0,Jordan Hill, C,2010-2011
+Washington Wizards,2630503.0,Nick Young, G,2010-2011
+LA Clippers,2563320.0,Al-Farouq Aminu, PF,2010-2011
+Charlotte Bobcats,2540000.0,D.J. Augustin, PG,2010-2011
+Washington Wizards,2500000.0,Maurice Evans, SG,2010-2011
+Indiana Pacers,2500000.0,Dahntay Jones, SG,2010-2011
+Toronto Raptors,2500000.0,David Andersen, C,2010-2011
+Toronto Raptors,2453880.0,DeMar DeRozan, SG,2010-2011
+New Jersey Nets,2413320.0,Brook Lopez, C,2010-2011
+LA Clippers,2400000.0,Ricky Davis, SG,2010-2011
+Boston Celtics,2388000.0,Marquis Daniels, SG,2010-2011
+New Orleans Hornets,2380270.0,Marco Belinelli, G,2010-2011
+Utah Jazz,2356320.0,Gordon Hayward, SF,2010-2011
+Cleveland Cavaliers,2333333.0,Ryan Hollins, C,2010-2011
+Milwaukee Bucks,2331120.0,Brandon Jennings, G,2010-2011
+Milwaukee Bucks,2320500.0,Ersan Ilyasova, PF,2010-2011
+LA Clippers,2300000.0,Craig Smith, PF,2010-2011
+Toronto Raptors,2292600.0,Jerryd Bayless, PG,2010-2011
+Orlando Magic,2265000.0,Quentin Richardson, SF,2010-2011
+Indiana Pacers,2238360.0,Paul George, SF,2010-2011
+Golden State Warriors,2225000.0,Lou Amundson, PF,2010-2011
+New Jersey Nets,2214480.0,Terrence Williams, SG,2010-2011
+Minnesota Timberwolves,2200000.0,Anthony Tolliver, PF,2010-2011
+New Orleans Hornets,2187913.0,Jason Smith, PF,2010-2011
+Sacramento Kings,2178000.0,Jason Thompson, PF,2010-2011
+Oklahoma City Thunder,2169857.0,Daequan Cook, SG,2010-2011
+Phoenix Suns,2151068.0,Jared Dudley, SF,2010-2011
+Los Angeles Lakers,2149200.0,Shannon Brown, PG,2010-2011
+New York Knicks,2130482.0,Wilson Chandler, SF,2010-2011
+Oklahoma City Thunder,2126520.0,Cole Aldrich, C,2010-2011
+Charlotte Bobcats,2103840.0,Gerald Henderson, SG,2010-2011
+Milwaukee Bucks,2080000.0,Keyon Dooling, PG,2010-2011
+Detroit Pistons,2080000.0,Ben Wallace, PF,2010-2011
+Indiana Pacers,2069040.0,Brandon Rush, SG,2010-2011
+Orlando Magic,2062800.0,Anthony Johnson, PG,2010-2011
+Houston Rockets,2062800.0,Brent Barry, SG,2010-2011
+Memphis Grizzlies,2020200.0,Xavier Henry, SG,2010-2011
+Phoenix Suns,2016692.0,Aaron Brooks, G,2010-2011
+Indiana Pacers,1998600.0,Tyler Hansbrough, PF,2010-2011
+Toronto Raptors,1990000.0,Rasho Nesterovic, C,2010-2011
+Houston Rockets,1972500.0,Chuck Hayes, PF,2010-2011
+Phoenix Suns,1972000.0,Goran Dragic, PG,2010-2011
+New York Knicks,1965720.0,Anthony Randolph, SF,2010-2011
+Denver Nuggets,1959577.0,Arron Afflalo, G,2010-2011
+Toronto Raptors,1919160.0,Ed Davis, PF,2010-2011
+Phoenix Suns,1898760.0,Earl Clark, SF,2010-2011
+Phoenix Suns,1867320.0,Robin Lopez, C,2010-2011
+Houston Rockets,1823280.0,Patrick Patterson, PF,2010-2011
+Houston Rockets,1823280.0,Dikembe Mutombo, C,2010-2011
+Dallas Mavericks,1815000.0,J.J. Barea, PG,2010-2011
+Detroit Pistons,1803720.0,Austin Daye, SF,2010-2011
+Chicago Bulls,1800000.0,Kurt Thomas, PF,2010-2011
+Philadelphia 76ers,1773960.0,Marreese Speights, F,2010-2011
+Los Angeles Lakers,1765000.0,Matt Barnes, SF,2010-2011
+Milwaukee Bucks,1731960.0,Larry Sanders, PF,2010-2011
+Chicago Bulls,1721000.0,Omer Asik, C,2010-2011
+Toronto Raptors,1713600.0,James Johnson, PF,2010-2011
+Indiana Pacers,1685280.0,Roy Hibbert, C,2010-2011
+New York Knicks,1675000.0,Renaldo Balkman, SF,2010-2011
+Portland Trail Blazers,1645440.0,Luke Babbitt, F,2010-2011
+Boston Celtics,1629120.0,Sean Williams, PF,2010-2011
+Philadelphia 76ers,1627920.0,Jrue Holiday, PG,2010-2011
+Washington Wizards,1601040.0,JaVale McGee, C,2010-2011
+Memphis Grizzlies,1600000.0,Hamed Haddadi, C,2010-2011
+Chicago Bulls,1600000.0,Keith Bogans, SG,2010-2011
+Washington Wizards,1563120.0,Kevin Seraphin, C,2010-2011
+Denver Nuggets,1546560.0,Ty Lawson, G,2010-2011
+Cleveland Cavaliers,1528920.0,JJ Hickson, C,2010-2011
+Indiana Pacers,1500000.0,Solomon Jones, PF,2010-2011
+LA Clippers,1485000.0,Eric Bledsoe, PG,2010-2011
+Atlanta Hawks,1476840.0,Jeff Teague, PG,2010-2011
+Toronto Raptors,1467840.0,Alexis Ajinca, C,2010-2011
+Boston Celtics,1418160.0,Avery Bradley, SG,2010-2011
+Oklahoma City Thunder,1417800.0,Eric Maynor, PG,2010-2011
+Orlando Magic,1409040.0,Ryan Anderson, PF,2010-2011
+New York Knicks,1400000.0,Roger Mason Jr., SG,2010-2011
+Utah Jazz,1381250.0,Ronnie Price, PG,2010-2011
+San Antonio Spurs,1361400.0,James Anderson, SG,2010-2011
+Indiana Pacers,1361040.0,Darren Collison, PG,2010-2011
+Houston Rockets,1352640.0,Courtney Lee, SG,2010-2011
+Miami Heat,1352181.0,Eddie House, SG,2010-2011
+Miami Heat,1352181.0,Zydrunas Ilgauskas, C,2010-2011
+Boston Celtics,1352181.0,Shaquille O'Neal, C,2010-2011
+Milwaukee Bucks,1350000.0,Roko-Leni Ukic, PG,2010-2011
+Philadelphia 76ers,1306920.0,Craig Brackins, PF,2010-2011
+Minnesota Timberwolves,1298640.0,Kosta Koufos, C,2010-2011
+Golden State Warriors,1254720.0,Elliot Williams, SG,2010-2011
+Sacramento Kings,1254480.0,Omri Casspi, SF,2010-2011
+Portland Trail Blazers,1246680.0,Rudy Fernandez, SG,2010-2011
+Washington Wizards,1204560.0,Trevor Booker, F,2010-2011
+Oklahoma City Thunder,1204200.0,Serge Ibaka, PF,2010-2011
+Oklahoma City Thunder,1204200.0,Byron Mullens, C,2010-2011
+Oklahoma City Thunder,1200000.0,Royal Ivey, PG,2010-2011
+Portland Trail Blazers,1196760.0,Nicolas Batum, SF,2010-2011
+New Jersey Nets,1156320.0,Damion James, SF,2010-2011
+Dallas Mavericks,1156080.0,Rodrigue Beaubois, PG,2010-2011
+LA Clippers,1146337.0,Brian Cook, PF,2010-2011
+Miami Heat,1146337.0,James Jones, SG,2010-2011
+Memphis Grizzlies,1123680.0,Darrell Arthur, F,2010-2011
+Chicago Bulls,1117680.0,Taj Gibson, PF,2010-2011
+Dallas Mavericks,1110120.0,Dominique Jones, SG,2010-2011
+Charlotte Bobcats,1108680.0,D.J. White, PF,2010-2011
+Utah Jazz,1087500.0,Kyrylo Fesenko, C,2010-2011
+Memphis Grizzlies,1085400.0,DeMarre Carroll, SF,2010-2011
+Minnesota Timberwolves,1078800.0,Wayne Ellington, SG,2010-2011
+New Orleans Hornets,1073280.0,Quincy Pondexter, SF,2010-2011
+Minnesota Timberwolves,1071720.0,Alando Tucker, SF,2010-2011
+New York Knicks,1071000.0,Toney Douglas, PG,2010-2011
+Washington Wizards,1042320.0,Jordan Crawford, G,2010-2011
+Memphis Grizzlies,1035960.0,Greivis Vasquez, PG,2010-2011
+New Jersey Nets,1033342.0,Quinton Ross, SF,2010-2011
+Washington Wizards,1030189.0,James Singleton, F,2010-2011
+Cleveland Cavaliers,1029389.0,Jawad Williams, SF,2010-2011
+New Orleans Hornets,1028840.0,Aaron Gray, C,2010-2011
+Washington Wizards,1028400.0,Daniel Orton, C,2010-2011
+Cleveland Cavaliers,1020960.0,Christian Eyenga, SF,2010-2011
+Minnesota Timberwolves,1020960.0,Lazar Hayward, SF,2010-2011
+Milwaukee Bucks,1000000.0,Jon Brockman, PF,2010-2011
+New Jersey Nets,992680.0,Stephen Graham, SF,2010-2011
+Cleveland Cavaliers,992680.0,Joey Graham, SF,2010-2011
+Portland Trail Blazers,937195.0,Patty Mills, PG,2010-2011
+Sacramento Kings,930700.0,Donte Greene, SF,2010-2011
+San Antonio Spurs,918000.0,DeJuan Blair, C,2010-2011
+Memphis Grizzlies,886000.0,Sam Young, SF,2010-2011
+Dallas Mavericks,885120.0,Ian Mahinmi, C,2010-2011
+New Orleans Hornets,885120.0,Pops Mensah-Bonsu, PF,2010-2011
+Miami Heat,885120.0,Alexander Johnson, SF,2010-2011
+Indiana Pacers,885120.0,Josh McRoberts, PF,2010-2011
+Atlanta Hawks,884881.0,Salim Stoudamire, SG,2010-2011
+San Antonio Spurs,855189.0,Marcus Haislip, F,2010-2011
+Sacramento Kings,855189.0,Quincy Douby, SG,2010-2011
+New York Knicks,855189.0,Mouhamed Sene, C,2010-2011
+Golden State Warriors,855189.0,Tarence Kinsey, SG,2010-2011
+San Antonio Spurs,854389.0,Malik Hairston, SG,2010-2011
+Utah Jazz,854389.0,Dwayne Jones II, PF,2010-2011
+Memphis Grizzlies,854389.0,Darius Miles, SF,2010-2011
+Washington Wizards,854389.0,Javaris Crittenton, PG,2010-2011
+Miami Heat,854389.0,Mario Chalmers, G,2010-2011
+Utah Jazz,854389.0,Kyle Weaver, SG,2010-2011
+Sacramento Kings,854389.0,Antoine Wright, SF,2010-2011
+Atlanta Hawks,854389.0,Etan Thomas, C,2010-2011
+Golden State Warriors,825497.0,Mikki Moore, C,2010-2011
+LA Clippers,825497.0,Kareem Rush, SG,2010-2011
+Washington Wizards,825497.0,Paul Davis, C,2010-2011
+Oklahoma City Thunder,825497.0,Kevin Ollie, PG,2010-2011
+Oklahoma City Thunder,825497.0,Ryan Bowen, SF,2010-2011
+Boston Celtics,825497.0,Gabe Pruitt, PG,2010-2011
+San Antonio Spurs,804131.0,Chris Quinn, PG,2010-2011
+Portland Trail Blazers,799105.0,Sean Marks, PF,2010-2011
+Houston Rockets,780871.0,Chase Budinger, SF,2010-2011
+Sacramento Kings,780871.0,Jermaine Taylor, SG,2010-2011
+Charlotte Bobcats,762195.0,Derrick Brown, SF,2010-2011
+Charlotte Bobcats,762195.0,Dante Cunningham, SF,2010-2011
+New Orleans Pelicans,762195.0,Darryl Watkins, C,2010-2011
+Utah Jazz,762195.0,Brian Butch, C,2010-2011
+Memphis Grizzlies,762195.0,Tony Gaffney, SF,2010-2011
+Portland Trail Blazers,762195.0,Greg Stiemsma, C,2010-2011
+Philadelphia 76ers,762195.0,Jodie Meeks, SG,2010-2011
+null Unknown,762195.0,Curtis Jerrells, NA,2010-2011
+Milan Olimpia,762195.0,Oliver Lafayette, G,2010-2011
+Indiana Pacers,750000.0,Lance Stephenson, SG,2010-2011
+LA Clippers,736420.0,Mike Taylor, PG,2010-2011
+Charlotte Hornets,736420.0,Dontell Jefferson, SG,2010-2011
+New York Knicks,736420.0,Joe Crawford, SG,2010-2011
+Madrid Real Madrid,736420.0,Othello Hunter, SF,2010-2011
+Sacramento Kings,730437.0,Hassan Whiteside, C,2010-2011
+Miami Heat,713666.0,Erick Dampier, C,2010-2011
+San Antonio Spurs,708640.0,Ime Udoka, SG,2010-2011
+Oklahoma City Thunder,679821.0,Mike Wilks, PG,2010-2011
+Toronto Raptors,670000.0,Solomon Alabi, C,2010-2011
+Milwaukee Bucks,668434.0,Brian Skinner, PF,2010-2011
+Philadelphia 76ers,650686.0,Allen Iverson, SG,2010-2011
+Washington Wizards,641141.0,Alonzo Gee, SF,2010-2011
+Memphis Grizzlies,633253.0,Acie Law, PG,2010-2011
+New York Knicks,600000.0,Andy Rautins, SG,2010-2011
+LA Clippers,567917.0,Ike Diogu, PF,2010-2011
+San Antonio Spurs,525000.0,Gary Neal, PG,2010-2011
+Memphis Grizzlies,524964.0,Jason Williams, PG,2010-2011
+Washington Wizards,515603.0,Lester Hudson, SG,2010-2011
+LA Clippers,500000.0,Willie Warren, SG,2010-2011
+Cleveland Cavaliers,500000.0,Samardo Samuels, PF,2010-2011
+Atlanta Hawks,482478.0,Damien Wilkins, SG,2010-2011
+LA Clippers,473604.0,Patrick Beverley, PG,2010-2011
+Phoenix Suns,473604.0,Gani Lawal, PF,2010-2011
+Phoenix Suns,473604.0,Garret Siler, C,2010-2011
+Charlotte Bobcats,473604.0,Sherron Collins, PG,2010-2011
+New York Knicks,473604.0,Landry Fields, SG,2010-2011
+Memphis Grizzlies,473604.0,Ish Smith, PG,2010-2011
+Denver Nuggets,473604.0,Gary Forbes, F,2010-2011
+Cleveland Cavaliers,473604.0,Semih Erden, C,2010-2011
+Utah Jazz,473604.0,Jeremy Evans, F,2010-2011
+Miami Heat,473604.0,Dexter Pittman, C,2010-2011
+Memphis Grizzlies,457588.0,Derrick Byars, SF,2010-2011
+null Unknown,457588.0,Deron Washington, NA,2010-2011
+Toronto Raptors,402065.0,Peja Stojakovic, SF,2010-2011
+San Antonio Spurs,306575.0,Steve Novak, SF,2010-2011
+Washington Wizards,226162.0,Mustafa Shakur, PG,2010-2011
+New York Knicks,221136.0,Jared Jeffries, PF,2010-2011
+Washington Wizards,216110.0,Mike Bibby, PG,2010-2011
+New Jersey Nets,216110.0,Troy Murphy, PF,2010-2011
+Charlotte Bobcats,211084.0,Dominic McGuire, PF,2010-2011
+Dallas Mavericks,211084.0,Sasha Pavlovic, SG,2010-2011
+LA Clippers,211084.0,Rasual Butler, SF,2010-2011
+Washington Wizards,211084.0,Al Thornton, SF,2010-2011
+Portland Trail Blazers,208802.0,Travis Diener, PG,2010-2011
+Memphis Grizzlies,201033.0,Leon Powe, PF,2010-2011
+Miami Heat,196007.0,Carlos Arroyo, PG,2010-2011
+Phoenix Suns,186656.0,Zabian Dowdell, PG,2010-2011
+Charlotte Hornets,168579.0,Jannero Pargo, PG,2010-2011
+Golden State Warriors,133723.0,Jeff Adrien, SF,2010-2011
+Chicago Bulls,130165.0,John Lucas III, PG,2010-2011
+San Antonio Spurs,130022.0,Danny Green, SG,2010-2011
+null Unknown,125000.0,Da'Sean Butler, NA,2010-2011
+Toronto Raptors,112088.0,Sundiata Gaines, PG,2010-2011
+Portland Trail Blazers,88363.0,Chris Johnson, C,2010-2011
+Charlotte Bobcats,80703.0,Garrett Temple, SG,2010-2011
+Cleveland Cavaliers,40375.0,Cedric Jackson, G,2010-2011
+Washington Wizards,35868.0,Othyus Jeffers, SG,2010-2011
+New Orleans Hornets,25073.0,Patrick Ewing Jr., SF,2010-2011
+Utah Jazz,25000.0,Marcus Cousin, C,2010-2011
+Washington Wizards,22287.0,Larry Owens, SF,2010-2011
+New Jersey Nets,20103.0,Mario West, SG,2010-2011
+Houston Rockets,15000.0,Marqus Blakely, SF,2010-2011
+San Antonio Spurs,13930.0,Robert Vaden, SG,2010-2011
+Portland Trail Blazers,11679.0,Earl Barron, C,2010-2011
+Toronto Raptors,8967.0,Trey Johnson, SG,2010-2011
+null Unknown,8358.0,Magnum Rolle, NA,2010-2011

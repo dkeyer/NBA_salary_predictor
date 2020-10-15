@@ -1,0 +1,386 @@
+team,salary,player,position,season
+Los Angeles Lakers,30453805.0,Kobe Bryant, SF,2013-2014
+Miami Heat,18673000.0,Dwyane Wade, SG,2013-2014
+LA Clippers,18668431.0,Chris Paul, PG,2013-2014
+Brooklyn Nets,18466130.0,Deron Williams, PG,2013-2014
+Memphis Grizzlies,18238333.0,Zach Randolph, PF,2013-2014
+Toronto Raptors,17888932.0,Rudy Gay, SF,2013-2014
+Oklahoma City Thunder,17832627.0,Kevin Durant, SF,2013-2014
+Chicago Bulls,17632688.0,Derrick Rose, PG,2013-2014
+LA Clippers,16441500.0,Blake Griffin, PF,2013-2014
+Brooklyn Nets,15333334.0,Paul Pierce, SF,2013-2014
+Chicago Bulls,15300000.0,Carlos Boozer, PF,2013-2014
+Dallas Mavericks,22721381.0,Dirk Nowitzki, PF,2013-2014
+Portland Trail Blazers,14878000.0,LaMarcus Aldridge, PF,2013-2014
+Memphis Grizzlies,14860523.0,Marc Gasol, C,2013-2014
+Oklahoma City Thunder,14693906.0,Russell Westbrook, PG,2013-2014
+Minnesota Timberwolves,14693906.0,Kevin Love, PF,2013-2014
+Philadelphia 76ers,14487500.0,Emeka Okafor, C,2013-2014
+New Orleans Pelicans,14283844.0,Eric Gordon, SG,2013-2014
+Indiana Pacers,14283844.0,Roy Hibbert, C,2013-2014
+Cleveland Cavaliers,14275000.0,Luol Deng, SF,2013-2014
+New York Knicks,14100538.0,Tyson Chandler, C,2013-2014
+Golden State Warriors,14000000.0,Andrew Bogut, C,2013-2014
+New York Knicks,21679893.0,Amar'e Stoudemire, C,2013-2014
+Golden State Warriors,13878000.0,David Lee, PF,2013-2014
+Houston Rockets,13701250.0,James Harden, PG,2013-2014
+Charlotte Bobcats,13500000.0,Al Jefferson, C,2013-2014
+Detroit Pistons,13500000.0,Josh Smith, PF,2013-2014
+Washington Wizards,13000000.0,Nene Hilario, C,2013-2014
+Golden State Warriors,12868632.0,Andre Iguodala, SG,2013-2014
+San Antonio Spurs,12500000.0,Tony Parker, PG,2013-2014
+Brooklyn Nets,12433735.0,Kevin Garnett, PF,2013-2014
+Oklahoma City Thunder,12350000.0,Serge Ibaka, PF,2013-2014
+Minnesota Timberwolves,12100000.0,Nikola Pekovic, C,2013-2014
+Brooklyn Nets,21466718.0,Joe Johnson, G,2013-2014
+Boston Celtics,12000000.0,Kris Humphries, PF,2013-2014
+New York Knicks,21388953.0,Carmelo Anthony, PF,2013-2014
+Houston Rockets,20513178.0,Dwight Howard, C,2013-2014
+Los Angeles Lakers,19285850.0,Pau Gasol, C,2013-2014
+Miami Heat,19067500.0,Chris Bosh, PF,2013-2014
+Miami Heat,19067500.0,LeBron James, SF,2013-2014
+Atlanta Hawks,12000000.0,Al Horford, C,2013-2014
+Boston Celtics,11954545.0,Rajon Rondo, PG,2013-2014
+New York Knicks,11862500.0,Andrea Bargnani, C,2013-2014
+New Orleans Pelicans,11796247.0,Tyreke Evans, SG,2013-2014
+Portland Trail Blazers,11295250.0,Nicolas Batum, SF,2013-2014
+Chicago Bulls,11100000.0,Joakim Noah, C,2013-2014
+Utah Jazz,11046000.0,Richard Jefferson, F,2013-2014
+LA Clippers,10986550.0,DeAndre Jordan, C,2013-2014
+Denver Nuggets,10786517.0,Ty Lawson, G,2013-2014
+Denver Nuggets,10750000.0,JaVale McGee, C,2013-2014
+San Antonio Spurs,10361446.0,Tim Duncan, C,2013-2014
+LA Clippers,10146925.0,Danilo Gallinari, SF,2013-2014
+Boston Celtics,10105855.0,Gerald Wallace, SF,2013-2014
+San Antonio Spurs,10000000.0,Tiago Splitter, C,2013-2014
+Golden State Warriors,9887642.0,Stephen Curry, PG,2013-2014
+New Orleans Pelicans,9713484.0,Jrue Holiday, PG,2013-2014
+Toronto Raptors,9500000.0,DeMar DeRozan, SG,2013-2014
+Atlanta Hawks,9500000.0,Paul Millsap, PF,2013-2014
+Dallas Mavericks,9316796.0,Shawn Marion, SG,2013-2014
+Los Angeles Lakers,9300500.0,Steve Nash, PG,2013-2014
+Cleveland Cavaliers,9036364.0,Anderson Varejao, C,2013-2014
+Philadelphia 76ers,8850000.0,Thaddeus Young, PF,2013-2014
+Oklahoma City Thunder,8727437.0,Kendrick Perkins, C,2013-2014
+Boston Celtics,8700000.0,Jeff Green, SF,2013-2014
+Memphis Grizzlies,8600001.0,Mike Conley, PG,2013-2014
+Detroit Pistons,8580000.0,Charlie Villanueva, PF,2013-2014
+Detroit Pistons,8500000.0,Rodney Stuckey, PG,2013-2014
+Houston Rockets,8374646.0,Omer Asik, C,2013-2014
+Houston Rockets,8374646.0,Jeremy Lin, PG,2013-2014
+New Orleans Pelicans,8308500.0,Ryan Anderson, PF,2013-2014
+Sacramento Kings,8050000.0,Marcus Thornton, SG,2013-2014
+Milwaukee Bucks,8000000.0,O.J. Mayo, SG,2013-2014
+Atlanta Hawks,8000000.0,Jeff Teague, PG,2013-2014
+Indiana Pacers,8000000.0,George Hill, PG,2013-2014
+Milwaukee Bucks,7900000.0,Ersan Ilyasova, PF,2013-2014
+Washington Wizards,7727280.0,Trevor Ariza, SF,2013-2014
+Washington Wizards,7727280.0,Marcin Gortat, C,2013-2014
+Detroit Pistons,7655503.0,Brandon Jennings, G,2013-2014
+Toronto Raptors,7583000.0,John Salmons, SF,2013-2014
+Chicago Bulls,7550000.0,Taj Gibson, PF,2013-2014
+Atlanta Hawks,6204250.0,Jason Richardson, SG,2013-2014
+Utah Jazz,6008196.0,Derrick Favors, PF,2013-2014
+Charlotte Bobcats,6000000.0,Gerald Henderson, SG,2013-2014
+Portland Trail Blazers,5904261.0,Robin Lopez, C,2013-2014
+Toronto Raptors,5722500.0,Chuck Hayes, PF,2013-2014
+Sacramento Kings,5643750.0,Jason Thompson, PF,2013-2014
+Brooklyn Nets,5625313.0,Jason Terry, G,2013-2014
+Cleveland Cavaliers,5607240.0,Kyrie Irving, PG,2013-2014
+New York Knicks,5565000.0,JR Smith, SG,2013-2014
+New Orleans Pelicans,5375760.0,Anthony Davis, PF,2013-2014
+Cleveland Cavaliers,5324280.0,Anthony Bennett, PF,2013-2014
+LA Clippers,5225000.0,Jamal Crawford, SG,2013-2014
+Memphis Grizzlies,5225000.0,Courtney Lee, SG,2013-2014
+Atlanta Hawks,5225000.0,Lou Williams, SG,2013-2014
+Milwaukee Bucks,5200000.0,Zaza Pachulia, C,2013-2014
+Denver Nuggets,5150000.0,JJ Hickson, C,2013-2014
+Washington Wizards,5150000.0,Martell Webster, SF,2013-2014
+Boston Celtics,5058198.0,Keith Bogans, SG,2013-2014
+Sacramento Kings,5016960.0,Derrick Williams, PF,2013-2014
+Washington Wizards,5000000.0,Andre Miller, PG,2013-2014
+Charlotte Bobcats,5000000.0,Ramon Sessions, G,2013-2014
+San Antonio Spurs,7500000.0,Manu Ginobili, G,2013-2014
+Utah Jazz,7500000.0,Marvin Williams, PF,2013-2014
+Phoenix Suns,7500000.0,Goran Dragic, PG,2013-2014
+Washington Wizards,7459925.0,John Wall, PG,2013-2014
+Memphis Grizzlies,7235955.0,Tayshaun Prince, SF,2013-2014
+Portland Trail Blazers,6875480.0,Wesley Matthews, SG,2013-2014
+Dallas Mavericks,6791570.0,Jose Calderon, PG,2013-2014
+Atlanta Hawks,6760563.0,Kyle Korver, SG,2013-2014
+Philadelphia 76ers,6679867.0,Evan Turner, SG,2013-2014
+LA Clippers,6500000.0,JJ Redick, SG,2013-2014
+Minnesota Timberwolves,6500000.0,Kevin Martin, SG,2013-2014
+Sacramento Kings,6500000.0,Carl Landry, PF,2013-2014
+Philadelphia 76ers,6500000.0,Spencer Hawes, PF,2013-2014
+Boston Celtics,6450000.0,Brandon Bass, PF,2013-2014
+Phoenix Suns,6400000.0,Channing Frye, F,2013-2014
+Denver Nuggets,6344164.0,Wilson Chandler, SF,2013-2014
+Cleveland Cavaliers,6300000.0,Jarrett Jack, G,2013-2014
+Toronto Raptors,6250000.0,Landry Fields, SG,2013-2014
+Toronto Raptors,6210000.0,Kyle Lowry, PG,2013-2014
+Minnesota Timberwolves,5000000.0,Chase Budinger, SF,2013-2014
+Dallas Mavericks,5000000.0,Brandan Wright, F,2013-2014
+Sacramento Kings,4916974.0,DeMarcus Cousins, C,2013-2014
+Charlotte Bobcats,4809840.0,Michael Kidd-Gilchrist, SF,2013-2014
+Orlando Magic,4763760.0,Victor Oladipo, SG,2013-2014
+San Antonio Spurs,4702500.0,Boris Diaw, C,2013-2014
+Minnesota Timberwolves,4687000.0,J.J. Barea, PG,2013-2014
+Sacramento Kings,4588384.0,Luc Mbah a Moute, PF,2013-2014
+Indiana Pacers,4508504.0,Luis Scola, F,2013-2014
+Utah Jazz,4505280.0,Enes Kanter, C,2013-2014
+Detroit Pistons,4500000.0,Jonas Jerebko, PF,2013-2014
+Memphis Grizzlies,4494383.0,Tony Allen, SG,2013-2014
+Milwaukee Bucks,4469548.0,Ekpe Udoh, C,2013-2014
+Charlotte Bobcats,4420000.0,Luke Ridnour, PG,2013-2014
+Denver Nuggets,4400000.0,Timofey Mozgov, C,2013-2014
+Miami Heat,4340000.0,Udonis Haslem, PF,2013-2014
+Washington Wizards,4319280.0,Bradley Beal, SG,2013-2014
+Washington Wizards,4278000.0,Otto Porter Jr., SF,2013-2014
+LA Clippers,4250000.0,Jared Dudley, SF,2013-2014
+Detroit Pistons,4086454.0,Greg Monroe, C,2013-2014
+Cleveland Cavaliers,4062000.0,Tristan Thompson, C,2013-2014
+Chicago Bulls,4059000.0,Kirk Hinrich, SG,2013-2014
+Atlanta Hawks,4000000.0,Elton Brand, PF,2013-2014
+Indiana Pacers,4000000.0,Ian Mahinmi, C,2013-2014
+Miami Heat,4000000.0,Mario Chalmers, G,2013-2014
+Los Angeles Lakers,4000000.0,Steve Blake, PG,2013-2014
+San Antonio Spurs,3945000.0,Matt Bonner, C,2013-2014
+Oklahoma City Thunder,3900000.0,Thabo Sefolosha, SF,2013-2014
+Cleveland Cavaliers,3894240.0,Dion Waiters, SG,2013-2014
+Charlotte Bobcats,3857040.0,Cody Zeller, C,2013-2014
+Miami Heat,3800000.0,Joel Anthony, PF,2013-2014
+San Antonio Spurs,3762500.0,Danny Green, SG,2013-2014
+Toronto Raptors,3750000.0,Steve Novak, SF,2013-2014
+New Orleans Pelicans,3749602.0,Al-Farouq Aminu, PF,2013-2014
+Dallas Mavericks,3700748.0,Samuel Dalembert, C,2013-2014
+Minnesota Timberwolves,3678358.0,Ricky Rubio, PG,2013-2014
+New York Knicks,3637073.0,Raymond Felton, PG,2013-2014
+Toronto Raptors,3526440.0,Jonas Valanciunas, C,2013-2014
+Portland Trail Blazers,3526440.0,Thomas Robinson, F,2013-2014
+Golden State Warriors,3500000.0,Marreese Speights, F,2013-2014
+Phoenix Suns,3500000.0,Gerald Green, SG,2013-2014
+Phoenix Suns,3492720.0,Alex Len, C,2013-2014
+Utah Jazz,3452183.0,Gordon Hayward, SF,2013-2014
+Washington Wizards,3340920.0,Jan Vesely, PF,2013-2014
+Indiana Pacers,3282003.0,Paul George, SF,2013-2014
+Miami Heat,3270000.0,Shane Battier, SF,2013-2014
+LA Clippers,3250000.0,Matt Barnes, SF,2013-2014
+LA Clippers,3250000.0,Carlos Delfino, SG,2013-2014
+Charlotte Bobcats,3250000.0,Gary Neal, PG,2013-2014
+Denver Nuggets,3231683.0,Darrell Arthur, F,2013-2014
+Brooklyn Nets,3229050.0,Mirza Teletovic, PF,2013-2014
+Miami Heat,3229050.0,Ray Allen, SG,2013-2014
+Portland Trail Blazers,3202920.0,Damian Lillard, PG,2013-2014
+Brooklyn Nets,3183000.0,Andrei Kirilenko, SF,2013-2014
+Toronto Raptors,3183000.0,Tyler Hansbrough, PF,2013-2014
+Chicago Bulls,3183000.0,Mike Dunleavy, SG,2013-2014
+Dallas Mavericks,3180000.0,Vince Carter, SF,2013-2014
+Oklahoma City Thunder,3172320.0,Nerlens Noel, PF,2013-2014
+Memphis Grizzlies,3153860.0,Ed Davis, PF,2013-2014
+Minnesota Timberwolves,3150000.0,Alexey Shved, PG,2013-2014
+Memphis Grizzlies,3135000.0,Jerryd Bayless, PG,2013-2014
+Toronto Raptors,3105302.0,Patrick Patterson, PF,2013-2014
+Philadelphia 76ers,3060000.0,Lavoy Allen, F,2013-2014
+Milwaukee Bucks,3053368.0,Larry Sanders, PF,2013-2014
+Charlotte Bobcats,3049920.0,Bismack Biyombo, C,2013-2014
+Sacramento Kings,3000000.0,Travis Outlaw, SF,2013-2014
+Memphis Grizzlies,3000000.0,Kosta Koufos, C,2013-2014
+Indiana Pacers,3000000.0,Chris Copeland, SF,2013-2014
+Golden State Warriors,2923920.0,Harrison Barnes, SF,2013-2014
+Portland Trail Blazers,2897976.0,Joel Freeland, C,2013-2014
+Sacramento Kings,2895960.0,Ben McLemore, SG,2013-2014
+Milwaukee Bucks,2793960.0,Brandon Knight, PG,2013-2014
+Detroit Pistons,2790343.0,Will Bynum, PG,2013-2014
+Washington Wizards,2761114.0,Kevin Seraphin, C,2013-2014
+San Antonio Spurs,2750000.0,Marco Belinelli, G,2013-2014
+Toronto Raptors,2690875.0,Aaron Gray, C,2013-2014
+Toronto Raptors,2678640.0,Terrence Ross, SG,2013-2014
+Detroit Pistons,2653080.0,Kentavious Caldwell-Pope, SG,2013-2014
+Dallas Mavericks,2652000.0,Wayne Ellington, SG,2013-2014
+Portland Trail Blazers,2652000.0,Mo Williams, PG,2013-2014
+Phoenix Suns,2626474.0,Eric Bledsoe, PG,2013-2014
+Oklahoma City Thunder,2585668.0,Nick Collison, F,2013-2014
+Charlotte Bobcats,2568360.0,Kemba Walker, PG,2013-2014
+Atlanta Hawks,2557545.0,DeMarre Carroll, SF,2013-2014
+Boston Celtics,2511432.0,Avery Bradley, SG,2013-2014
+New Orleans Pelicans,2500000.0,Jason Smith, PF,2013-2014
+Detroit Pistons,2500000.0,Chauncey Billups, PG,2013-2014
+Detroit Pistons,2465400.0,Andre Drummond, C,2013-2014
+Utah Jazz,2438760.0,Trey Burke, PG,2013-2014
+Washington Wizards,2350820.0,Trevor Booker, F,2013-2014
+New Orleans Pelicans,2339040.0,Austin Rivers, PG,2013-2014
+Golden State Warriors,2317920.0,Klay Thompson, SG,2013-2014
+Portland Trail Blazers,2316720.0,CJ McCollum, SG,2013-2014
+Memphis Grizzlies,2225479.0,Quincy Pondexter, SF,2013-2014
+Cleveland Cavaliers,2225000.0,CJ Miles, SF,2013-2014
+Portland Trail Blazers,2222160.0,Meyers Leonard, PF,2013-2014
+Utah Jazz,2202000.0,Alec Burks, SG,2013-2014
+Philadelphia 76ers,2200920.0,Michael Carter-Williams, PG,2013-2014
+Minnesota Timberwolves,2180000.0,Dante Cunningham, SF,2013-2014
+Golden State Warriors,2162419.0,Jordan Crawford, G,2013-2014
+Toronto Raptors,2150188.0,Greivis Vasquez, PG,2013-2014
+Oklahoma City Thunder,2111160.0,Jeremy Lamb, SG,2013-2014
+Phoenix Suns,2091840.0,Markieff Morris, PF,2013-2014
+Oklahoma City Thunder,2090880.0,Steven Adams, C,2013-2014
+Portland Trail Blazers,2050000.0,Brendan Haywood, C,2013-2014
+Indiana Pacers,2016000.0,C.J. Watson, PG,2013-2014
+Denver Nuggets,2016000.0,Nate Robinson, PG,2013-2014
+Golden State Warriors,2000000.0,Jermaine O'Neal, C,2013-2014
+Boston Celtics,2000000.0,Vitor Faverani, C,2013-2014
+Phoenix Suns,1987320.0,Marcus Morris, PF,2013-2014
+Boston Celtics,1986360.0,Kelly Olynyk, PF,2013-2014
+Milwaukee Bucks,1905360.0,John Henson, F,2013-2014
+LA Clippers,1900000.0,Darren Collison, PG,2013-2014
+San Antonio Spurs,1887840.0,Kawhi Leonard, SF,2013-2014
+Minnesota Timberwolves,1887120.0,Shabazz Muhammad, F,2013-2014
+Orlando Magic,1809840.0,Maurice Harkless, SF,2013-2014
+Orlando Magic,1793520.0,Nikola Vucevic, C,2013-2014
+Milwaukee Bucks,1792560.0,Giannis Antetokounmpo, PF,2013-2014
+Denver Nuggets,1750000.0,Anthony Randolph, SF,2013-2014
+San Antonio Spurs,1750000.0,Jeff Ayres, F,2013-2014
+Detroit Pistons,1750000.0,Luigi Datome, SF,2013-2014
+New York Knicks,1703760.0,Iman Shumpert, SG,2013-2014
+Sacramento Kings,1695635.0,Reggie Evans, C,2013-2014
+Utah Jazz,1660257.0,Jeremy Evans, F,2013-2014
+Cleveland Cavaliers,1633440.0,Tyler Zeller, C,2013-2014
+Washington Wizards,1618680.0,Chris Singleton, SF,2013-2014
+Miami Heat,1600000.0,Toney Douglas, PG,2013-2014
+Utah Jazz,1600000.0,John Lucas III, PG,2013-2014
+New York Knicks,1591350.0,Pablo Prigioni, PG,2013-2014
+Houston Rockets,1551840.0,Terrence Jones, PF,2013-2014
+Los Angeles Lakers,1550000.0,Jodie Meeks, SG,2013-2014
+Orlando Magic,1545840.0,Tobias Harris, SF,2013-2014
+Dallas Mavericks,1536960.0,Shane Larkin, G,2013-2014
+Minnesota Timberwolves,1500000.0,Ronny Turiaf, C,2013-2014
+Milwaukee Bucks,1500000.0,Miroslav Raduljica, C,2013-2014
+Miami Heat,1500000.0,James Jones, SG,2013-2014
+Atlanta Hawks,1500000.0,Gustavo Ayon, PF,2013-2014
+Orlando Magic,1482000.0,Andrew Nicholson, PF,2013-2014
+Cleveland Cavaliers,1467840.0,Sergey Karasev, SG,2013-2014
+Toronto Raptors,1463000.0,Nando De Colo, PG,2013-2014
+Denver Nuggets,1422720.0,Evan Fournier, SG,2013-2014
+Houston Rockets,1422720.0,Donatas Motiejunas, PF,2013-2014
+Chicago Bulls,1409040.0,Tony Snell, SG,2013-2014
+LA Clippers,1399507.0,Willie Green, SG,2013-2014
+Miami Heat,1399507.0,Rashard Lewis, PF,2013-2014
+Miami Heat,1399507.0,Chris Andersen, PF,2013-2014
+Cleveland Cavaliers,1388400.0,Scotty Hopson, G,2013-2014
+Brooklyn Nets,1375604.0,Andray Blatche, C,2013-2014
+Denver Nuggets,1367640.0,Kenneth Faried, PF,2013-2014
+Boston Celtics,1365720.0,Jared Sullinger, C,2013-2014
+Minnesota Timberwolves,1352640.0,Gorgui Dieng, C,2013-2014
+Atlanta Hawks,1348200.0,Dennis Schroder, PG,2013-2014
+Portland Trail Blazers,1330000.0,Victor Claver, PF,2013-2014
+Brooklyn Nets,1298640.0,Mason Plumlee, PF,2013-2014
+Houston Rockets,1265977.0,Francisco Garcia, SG,2013-2014
+Oklahoma City Thunder,1260360.0,Reggie Jackson, PG,2013-2014
+Atlanta Hawks,1258800.0,John Jenkins, G,2013-2014
+Indiana Pacers,1246680.0,Solomon Hill, SF,2013-2014
+Los Angeles Lakers,1210080.0,MarShon Brooks, SG,2013-2014
+Oklahoma City Thunder,1200000.0,Hasheem Thabeet, C,2013-2014
+Atlanta Hawks,1200000.0,Pero Antic, PF,2013-2014
+New York Knicks,1196760.0,Tim Hardaway Jr., G,2013-2014
+Houston Rockets,1169880.0,Jordan Hamilton, SG,2013-2014
+Philadelphia 76ers,1160040.0,Tony Wroten, SG,2013-2014
+LA Clippers,1149000.0,Reggie Bullock, SG,2013-2014
+San Antonio Spurs,1133950.0,Patty Mills, PG,2013-2014
+Miami Heat,1129200.0,Norris Cole, PG,2013-2014
+Phoenix Suns,1121520.0,Miles Plumlee, C,2013-2014
+San Antonio Spurs,1120920.0,Cory Joseph, PG,2013-2014
+Chicago Bulls,1112880.0,Jimmy Butler, SG,2013-2014
+Los Angeles Lakers,1106942.0,Nick Young, G,2013-2014
+Philadelphia 76ers,1089240.0,Arnett Moultrie, PF,2013-2014
+Oklahoma City Thunder,1082520.0,Perry Jones, SF,2013-2014
+Utah Jazz,1078800.0,Rudy Gobert, C,2013-2014
+Brooklyn Nets,1074720.0,Marquis Teague, G,2013-2014
+Portland Trail Blazers,1066920.0,Festus Ezeli, C,2013-2014
+Phoenix Suns,1064400.0,Archie Goodwin, SG,2013-2014
+Golden State Warriors,1056720.0,Nemanja Nedovic, PG,2013-2014
+Detroit Pistons,1045000.0,Kyle Singler, F,2013-2014
+New Orleans Pelicans,1027424.0,Anthony Morrow, SG,2013-2014
+Indiana Pacers,1005000.0,Lance Stephenson, SG,2013-2014
+Indiana Pacers,1000000.0,Andrew Bynum, C,2013-2014
+Phoenix Suns,951463.0,Ish Smith, PG,2013-2014
+Philadelphia 76ers,947907.0,Byron Mullens, C,2013-2014
+Brooklyn Nets,947907.0,Alan Anderson, SG,2013-2014
+Houston Rockets,947907.0,Omri Casspi, SF,2013-2014
+Toronto Raptors,947907.0,Austin Daye, SF,2013-2014
+Houston Rockets,926500.0,Chandler Parsons, SF,2013-2014
+Charlotte Bobcats,916099.0,Jeff Adrien, SF,2013-2014
+Memphis Grizzlies,900000.0,Jon Leuer, PF,2013-2014
+Washington Wizards,884293.0,Garrett Temple, SG,2013-2014
+Atlanta Hawks,884293.0,Shelvin Mack, PG,2013-2014
+LA Clippers,884293.0,Ryan Hollins, C,2013-2014
+Charlotte Bobcats,884293.0,Jannero Pargo, PG,2013-2014
+Los Angeles Lakers,884293.0,Jordan Farmar, PG,2013-2014
+Orlando Magic,884293.0,E'Twaun Moore, G,2013-2014
+New York Knicks,884293.0,Cole Aldrich, C,2013-2014
+Golden State Warriors,875500.0,Draymond Green, PF,2013-2014
+Portland Trail Blazers,825000.0,Allen Crabbe, SG,2013-2014
+Philadelphia 76ers,797545.0,Elliot Williams, SG,2013-2014
+Milwaukee Bucks,788872.0,Khris Middleton, SF,2013-2014
+New Orleans Pelicans,788872.0,Brian Roberts, PG,2013-2014
+Charlotte Bobcats,788872.0,Jeffery Taylor, SF,2013-2014
+Denver Nuggets,788872.0,Quincy Miller, SF,2013-2014
+Dallas Mavericks,788872.0,Jae Crowder, PF,2013-2014
+Philadelphia 76ers,788872.0,Henry Sims, C,2013-2014
+Los Angeles Lakers,788872.0,Kent Bazemore, SG,2013-2014
+Oklahoma City Thunder,740560.0,Andre Roberson, SG,2013-2014
+Utah Jazz,719266.0,Diante Garrett, PG,2013-2014
+Utah Jazz,702233.0,Malcolm Thomas, PF,2013-2014
+Toronto Raptors,700000.0,Dwight Buycks, G,2013-2014
+Golden State Warriors,660619.0,Hilton Armstrong, PF,2013-2014
+Charlotte Bobcats,660619.0,Chris Douglas-Roberts, SG,2013-2014
+Toronto Raptors,650215.0,D.J. Augustin, PG,2013-2014
+New Orleans Pelicans,635880.0,Alexis Ajinca, C,2013-2014
+Memphis Grizzlies,634610.0,James Johnson, PF,2013-2014
+Houston Rockets,570515.0,Isaiah Canaan, PG,2013-2014
+New York Knicks,556584.0,Jeremy Tyler, C,2013-2014
+Los Angeles Lakers,547570.0,Kendall Marshall, PG,2013-2014
+Dallas Mavericks,544000.0,Ricky Ledo, SG,2013-2014
+Memphis Grizzlies,535000.0,Jamaal Franklin, SG,2013-2014
+Sacramento Kings,524616.0,Ray McCallum, PG,2013-2014
+Cleveland Cavaliers,510000.0,Carrick Felix, SG,2013-2014
+Milwaukee Bucks,500000.0,Nate Wolters, PG,2013-2014
+Detroit Pistons,500000.0,Tony Mitchell, PF,2013-2014
+Houston Rockets,490180.0,Robert Covington, SF,2013-2014
+Memphis Grizzlies,490180.0,Nick Calathes, SG,2013-2014
+Washington Wizards,490180.0,Glen Rice Jr., SG,2013-2014
+Philadelphia 76ers,490180.0,Brandon Davies, PF,2013-2014
+Charlotte Bobcats,490180.0,James Southerland, SF,2013-2014
+Los Angeles Lakers,490180.0,Ryan Kelly, PF,2013-2014
+Phoenix Suns,490180.0,Dionte Christmas, SG,2013-2014
+Chicago Bulls,490180.0,Erik Jay Murphy, PF,2013-2014
+Philadelphia 76ers,473604.0,Hollis Thompson, SF,2013-2014
+LA Clippers,473357.0,Hedo Turkoglu, SF,2013-2014
+Phoenix Suns,410936.0,Leandro Barbosa, G,2013-2014
+New Orleans Pelicans,387995.0,Luke Babbitt, F,2013-2014
+Boston Celtics,320189.0,Chris Johnson, SG,2013-2014
+Phoenix Suns,306037.0,Shavlik Randolph, PF,2013-2014
+Philadelphia 76ers,300000.0,Dewayne Dedmon, C,2013-2014
+Brooklyn Nets,275691.0,Jason Collins, C,2013-2014
+LA Clippers,249683.0,Danny Granger, SF,2013-2014
+Oklahoma City Thunder,244489.0,Caron Butler, SF,2013-2014
+Sacramento Kings,239279.0,Jimmer Fredette, G,2013-2014
+San Antonio Spurs,188438.0,Shannon Brown, PG,2013-2014
+Philadelphia 76ers,171696.0,Jarvis Varnado, PF,2013-2014
+Houston Rockets,158588.0,Troy Daniels, SG,2013-2014
+Atlanta Hawks,138404.0,Mike Muscala, PF,2013-2014
+Chicago Bulls,104034.0,Cartier Martin, PF,2013-2014
+Charlotte Bobcats,104028.0,D.J. White, PF,2013-2014
+Charlotte Bobcats,98036.0,Justin Hamilton, C,2013-2014
+Boston Celtics,77852.0,Chris Babb, SG,2013-2014
+Houston Rockets,69792.0,Ronnie Brewer, SF,2013-2014
+San Antonio Spurs,68902.0,Damion James, SF,2013-2014
+Chicago Bulls,57627.0,Mike James, PG,2013-2014
+Brooklyn Nets,54785.0,Jorge Gutierrez, PG,2013-2014
+Washington Wizards,52017.0,Drew Gooden, PF,2013-2014
+San Antonio Spurs,52017.0,Othyus Jeffers, SG,2013-2014
+Chicago Bulls,48854.0,Lou Amundson, PF,2013-2014
+Sacramento Kings,46404.0,Jared Cunningham, SG,2013-2014
+New Orleans Pelicans,29788.0,Melvin Ely, C,2013-2014
+Houston Rockets,15605.0,Greg Smith, PF,2013-2014
+Houston Rockets,13958.0,Josh Powell, PF,2013-2014
+Milwaukee Bucks,9281.0,Chris Wright, SF,2013-2014
+New York Knicks,8232.0,Lamar Odom, PF,2013-2014
